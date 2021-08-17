@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Spain",
+      "id": "Q29"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q80922158",
+      "start": "2020-01-13",
+      "parent": "Q3058576"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.lamoncloa.gob.es/lang/en/gobierno/government-organisational-structure/Paginas/index.aspx",
+        "title": "Government Organisational Structure",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/spain-ministers"
 }
