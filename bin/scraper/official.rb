@@ -13,7 +13,7 @@ class MemberList
     def position
       noko.xpath('text()').first.text.tidy
           .gsub(/,\s*$/, '')
-          .split(/ and (?=Minister)/)
+          .split(/ and (?=Minister|Government)/)
           .map(&:tidy)
     end
   end
