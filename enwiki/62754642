@@ -635,8 +635,11 @@
                 },
                 {
                   "text": "Expediente de Regulación Temporal de Empleo",
-                  "type": "internal",
-                  "page": ":es:Expediente_de_Regulación_Temporal_de_Empleo"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 }
               ],
               "formatting": {
