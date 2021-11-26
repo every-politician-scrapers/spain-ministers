@@ -593,8 +593,11 @@
               "links": [
                 {
                   "text": "Law on Citizen Security",
-                  "type": "internal",
-                  "page": ":es:Ley Orgánica de protección de la seguridad ciudadana (2015)"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "es"
+                  }
                 },
                 {
                   "text": "Criminal Code",
