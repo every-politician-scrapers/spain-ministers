@@ -28,6 +28,11 @@
                   "text": "MP",
                   "type": "internal",
                   "page": "Congress of Deputies (Spain)"
+                },
+                {
+                  "text": "Podemos",
+                  "type": "internal",
+                  "page": "Podemos (Spanish political party)"
                 }
               ],
               "formatting": {
@@ -43,6 +48,16 @@
                   "text": "Minister of Equality",
                   "type": "internal",
                   "page": "Ministry of Equality (Spain)"
+                }
+              ]
+            },
+            {
+              "text": "She is the partner of Pablo Iglesias, the founder and former leader of her party.",
+              "links": [
+                {
+                  "text": "Pablo Iglesias",
+                  "type": "internal",
+                  "page": "Pablo Iglesias Turrión"
                 }
               ]
             }
