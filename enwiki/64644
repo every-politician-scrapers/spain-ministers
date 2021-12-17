@@ -157,7 +157,7 @@
         {
           "sentences": [
             {
-              "text": "In January 2020, he was appointed Minister of Universities in the Sánchez II Government of Spain.",
+              "text": "In January 2020, he was appointed Minister of Universities in the Sánchez II Government of Spain, position he held until his resignation in December 2021.",
               "links": [
                 {
                   "text": "Minister of Universities",
@@ -520,6 +520,18 @@
           "url": "https://www.balzan.org/en/prizewinners/manuel-castells",
           "website": "International Balzan Prize Foundation",
           "access-date": "16 October 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Galaup",
+          "first": "Irene Castro, Laura",
+          "date": "2021-12-16",
+          "title": "Joan Subirats sustituirá a Manuel Castells como ministro de Universidades",
+          "url": "https://www.eldiario.es/politica/ministro-universidades-manuel-castells-sale-gobierno_1_8586458.html",
+          "access-date": "2021-12-16",
+          "website": "ElDiario.es",
+          "language": "es",
           "template": "citation",
           "type": "web"
         },
