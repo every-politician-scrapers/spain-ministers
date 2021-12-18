@@ -402,12 +402,11 @@
             "text": "Signature of King Felipe VI of Spain.svg"
           },
           "religion": {
-            "text": "Roman Catholicism",
+            "text": "Catholic Church",
             "links": [
               {
-                "text": "Roman Catholicism",
                 "type": "internal",
-                "page": "Catholic Church in Spain"
+                "page": "Catholic Church"
               }
             ]
           }

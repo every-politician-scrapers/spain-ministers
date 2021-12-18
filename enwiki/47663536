@@ -246,6 +246,42 @@
             ]
           },
           "office4": {
+            "text": "President of the Socialists' Party of Catalonia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Socialists' Party of Catalonia"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "19 December 2021"
+          },
+          "vicepresident4": {
+            "text": "Núria Marín",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Núria Marín"
+              }
+            ]
+          },
+          "1blankname4": {
+            "text": "First Secretary"
+          },
+          "1namedata4": {
+            "text": "Salvador Illa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Salvador Illa"
+              }
+            ]
+          },
+          "succeeding4": {
+            "text": "Núria Marín"
+          },
+          "office5": {
             "text": "Member of the Parliament of Catalonia",
             "links": [
               {
@@ -255,30 +291,11 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start5": {
             "text": "5 November 1999"
           },
-          "term_end4": {
+          "term_end5": {
             "text": "26 January 2021"
-          },
-          "constituency4": {
-            "text": "Barcelona",
-            "links": [
-              {
-                "text": "Barcelona",
-                "type": "internal",
-                "page": "Barcelona (Congress of Deputies constituency)"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Member of the Congress of Deputies",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of the Congress of Deputies"
-              }
-            ]
           },
           "constituency5": {
             "text": "Barcelona",
@@ -290,10 +307,29 @@
               }
             ]
           },
-          "term_start5": {
+          "office6": {
+            "text": "Member of the Congress of Deputies",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the Congress of Deputies"
+              }
+            ]
+          },
+          "constituency6": {
+            "text": "Barcelona",
+            "links": [
+              {
+                "text": "Barcelona",
+                "type": "internal",
+                "page": "Barcelona (Congress of Deputies constituency)"
+              }
+            ]
+          },
+          "term_start6": {
             "text": "27 March 1996"
           },
-          "term_end5": {
+          "term_end6": {
             "text": "2 November 1999"
           },
           "birth_name": {

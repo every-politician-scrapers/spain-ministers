@@ -453,6 +453,18 @@
           },
           "website": {
             "text": "www.manuelcastells.info/en"
+          },
+          "termend": {
+            "text": "16 December 2021"
+          },
+          "successor": {
+            "text": "Joan Subirats",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joan Subirats"
+              }
+            ]
           }
         }
       ],
