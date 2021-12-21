@@ -16,7 +16,8 @@
     "Holberg Prize laureates",
     "Urban sociologists",
     "Fellows of the American Academy of Political and Social Science",
-    "People from Hellín"
+    "People from Hellín",
+    "Government ministers of Spain"
   ],
   "sections": [
     {
@@ -260,7 +261,7 @@
             ]
           },
           "doctoral_students": {
-            "text": "Ananya Roy\nSasha Costanza-Chock",
+            "text": "Ananya Roy Sasha Costanza-Chock",
             "links": [
               {
                 "type": "internal",
@@ -454,8 +455,8 @@
           "website": {
             "text": "www.manuelcastells.info/en"
           },
-          "termend": {
-            "text": "16 December 2021"
+          "term_end": {
+            "text": "20 December 2021"
           },
           "successor": {
             "text": "Joan Subirats",
