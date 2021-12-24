@@ -1,0 +1,44 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q844587,Prime Minister of Spain,Q29,Q29,Q3113035,Q54602316,,,,,Prime Minister of Spain
+Q3113035,Deputy Prime Minister of Spain,Q29,Q29,,,1962,,,,Deputy Prime Minister of Spain
+Q37936537,First Deputy Prime Minister of the Government of Spain,Q29,Q29,,Q87415671,,,,,
+Q6366492,Second Deputy Prime Minister,Q29,Q29,,,,,,,Second Deputy Prime Minister of Spain
+Q6366494,Third Deputy Prime Minister of Spain,Q29,,,,,,,,Third Deputy Prime Minister of Spain
+Q43157117,"Minister for Agriculture, Fisheries and Food",Q29,Q29,,,,,,,
+Q81926467,Minister for Consumer Affairs,Q29,Q29,,,,,,,
+Q45347945,minister of culture,Q29,Q29,,,,,,,
+Q54909241,Minister of Culture and Sport,Q29,Q29,,,,,,,
+Q54906062,Minister for Ecological Transition,Q29,Q29,,,,,,,
+Q54905731,Minister for the Economy and Digital Transformation,Q29,Q29,,,,,,,
+Q25513965,Minister of Economy and Finance,,Q29,,,,,,,
+Q43147735,Minister of Education and Culture,Q29,Q29,,,,,,,
+Q35959997,Minister of Education and Science,Q29,Q29,,Q19304917,2004,2008,,,
+Q81923820,Minister for Equality,Q29,Q29,,,,,,,
+Q25907267,Minister of Finance and Public Administrations,Q29,Q29,,,,,,,
+Q45140838,Minister of Health and Social Policy,Q29,Q29,,,,,,,
+Q43184108,"Minister of Health, Social Services and Equality",Q29,Q29,,,,,,,
+Q56582340,"Minister of Health, Consumer Affairs and Welfare",Q29,Q29,,,,,,,
+Q85835511,Health Minister of Spain,Q29,Q29,,,,,,,
+Q45322103,Minister of Industry and Energy,Q29,Q29,,,,,,,
+Q54849885,"Minister of Industry, Commerce, and Tourism",Q29,Q29,,,,,,,
+Q26248440,Minister of the Interior,Q29,Q29,,,,,,,
+Q87001438,"minister of Labor, Migration and Social Security",Q29,Q29,,,,,,,
+Q47012997,Minister of Labour and Immigration,Q29,Q29,,,2008-04-12,2011-12-21,,,
+Q43120886,Minister of the Presidency,Q29,Q29,,,,,,,
+Q43157412,Minister of Public Administration,Q29,Q29,,,,,,,
+Q16871885,Minister of Public Works of Spain,Q29,Q29,,Q6354366,1830,,,,
+Q110225280,Minister of Science and Innovation (Spain),,Q29,,,,,,,
+Q54906436,"Minister of Science, Innovation and Universities",Q29,Q29,,,,,,,
+Q81924131,Minister for Social Rights and 2030 Agenda,Q29,Q29,,,,,,,
+Q23636106,Minister of Territorial Policy,Q29,Q29,,,,,,,
+Q54906268,Minister for Territorial Policy,Q29,Q29,,,,,,,
+Q26262735,Minister of the Treasury of Spain,Q29,Q29,,,,,,,
+Q56582240,minister of Universal Healthcare and Public Health,Q29,,,,,,,,
+Q108125577,Minister for Universities,Q29,Q29,,,,,,,
+Q3398875,Spokesperson of the Government of Spain,Q29,Q29,,,,,,,Spokesperson of the Government of Spain
+Q1335465,President of the Spanish Senate,Q29,Q29,,,1834-07-17,,,,President of the Senate of Spain
+Q17014422,President of the Congress of Deputies,Q29,Q29,,,,,,,President of the Congress of Deputies
+Q3406493,Attorney-General of Spain,Q29,,,,1978,,,,Spanish Attorney General
+Q529901,Solicitor General of Spain,Q29,,,,1849-12-28,,,,Solicitor General of Spain
+Q6352222,Governor of the Bank of Spain,Q29,,,,1856-01,,,,Governor of the Bank of Spain
+Q5928975,Chief of the Defence Staff,Q29,Q29,,,1984-01-11,,,,Chief of the Defence Staff (Spain)
