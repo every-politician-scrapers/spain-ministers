@@ -1,4 +1,4 @@
-name: Compare current data
+name: Compare external data
 
 on:
   schedule:
@@ -7,4 +7,4 @@ on:
 
 jobs:
   scheduled:
-    uses: every-politician-scrapers/cabinet-template/.github/workflows/scrape.yml@main
+    uses: every-politician-scrapers/shared/.github/workflows/compare.yml@main
