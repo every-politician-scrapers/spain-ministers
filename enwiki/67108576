@@ -246,36 +246,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last1": "E. Cué",
-          "first1": "Carlos",
-          "last2": "Santaeulalia",
-          "first2": "Inés",
-          "date": "15 March 2021",
-          "url": "https://elpais.com/espana/2021-03-15/iglesias-deja-el-gobierno-para-ser-candidato-en-madrid-y-ofrece-a-errejon-un-frente-comun.html",
-          "title": "Pablo Iglesias deja el Gobierno para ser candidato en Madrid y ofrece a Errejón un frente común",
-          "language": "es",
-          "newspaper": "El País",
-          "location": "Montauban / Madrid",
-          "access-date": "15 March 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Cruz",
-          "first": "Marisa",
-          "date": "15 March 2021",
-          "url": "https://www.elmundo.es/espana/2021/03/15/604f4beafc6c83ac178b4607.html",
-          "title": "Pablo Iglesias exige a Pedro Sánchez que nombre a Yolanda Díaz vicepresidenta y a Ione Belarra ministra",
-          "language": "es",
-          "newspaper": "El Mundo",
-          "location": "Madrid",
-          "access-date": "15 March 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

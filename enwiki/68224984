@@ -168,21 +168,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "publisher": "Agencia Estatal Boletín Oficial del Estado",
-          "journal": "Boletín Oficial del Estado",
-          "issue": "165",
-          "date": "12 July 2021",
-          "language": "es",
-          "title": "Real Decreto 528/2021, de 10 de julio, por el que se nombra Ministra de Transportes, Movilidad y Agenda Urbana a doña Raquel Sánchez Jiménez",
-          "url": "https://boe.es/boe/dias/2021/07/12/pdfs/BOE-A-2021-11534.pdf",
-          "issn": "0212-033X",
-          "page": "82902",
-          "template": "citation",
-          "type": "journal"
-        }
       ]
     }
   ]

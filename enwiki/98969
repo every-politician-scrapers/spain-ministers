@@ -402,66 +402,6 @@
             "text": "Signature of King Felipe VI of Spain.svg"
           }
         }
-      ],
-      "references": [
-        {
-          "title": "His Majesty the King Juan Carlos",
-          "url": "http://www.casareal.es/sm_rey/index-iden-idweb.html",
-          "website": "The Royal Household of His Majesty the King",
-          "archive-url": "https://web.archive.org/web/20110218175811/http://www.casareal.es/sm_rey/index-iden-idweb.html",
-          "archive-date": "18 February 2011",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/world-europe-27916036",
-          "title": "Felipe takes over as king of Spain",
-          "work": "BBC News",
-          "date": "18 June 2014",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Spain will have two kings and two queens",
-          "url": "https://www.telegraph.co.uk/news/worldnews/europe/spain/10898873/Spain-will-have-two-kings-and-two-queens.html",
-          "access-date": "14 June 2014",
-          "work": "The Telegraph",
-          "last": "Govan",
-          "first": "Fiona",
-          "date": "13 June 2014",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Coronation of Prince Felipe to take place on June 18",
-          "url": "http://elpais.com/elpais/2014/06/03/inenglish/1401790263_581257.html",
-          "publisher": "El Pais",
-          "last1": "Garea",
-          "first1": "Fernando",
-          "last2": "Fabra",
-          "first2": "María",
-          "date": "3 June 2014",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

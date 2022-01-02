@@ -569,30 +569,6 @@
             "text": "Firma Pedro Sánchez.png"
           }
         }
-      ],
-      "references": [
-        {
-          "website": "lamoncloa.gob.es",
-          "language": "es",
-          "title": "Relación cronológica de los presidentes del Consejo de Ministros y del Gobierno",
-          "url": "http://www.lamoncloa.gob.es/presidente/presidentes-desde-1823/Paginas/index.aspx",
-          "access-date": "5 June 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "publisher": "Agencia Estatal Boletín Oficial del Estado",
-          "journal": "Boletín Oficial del Estado",
-          "issue": "134",
-          "date": "2 June 2018",
-          "language": "es",
-          "title": "Real Decreto 354/2018, de 1 de junio, por el que se nombra Presidente del Gobierno a don Pedro Sánchez Pérez-Castejón",
-          "url": "https://www.boe.es/boe/dias/2018/06/02/pdfs/BOE-A-2018-7400.pdf",
-          "issn": "0212-033X",
-          "page": "57657",
-          "template": "citation",
-          "type": "journal"
-        }
       ]
     }
   ]
