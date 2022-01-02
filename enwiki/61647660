@@ -201,27 +201,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.lavanguardia.com/local/valencia/20180808/451250160499/alcaldesa-gandia-diana-morant-incendio-llutxent-virulencia-grecia.html",
-          "title": "La alcaldesa de Gandía, sobre el incendio de Llutxent: 'Es de una virulencia como el de Grecia'",
-          "work": "La Vanguardia",
-          "access-date": "2018-08-16",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://www.dival.es/es/presidencia/content/morant-ripoll-diana",
-          "archive-url": "https://web.archive.org/web/20151116035202/http://www.dival.es/es/presidencia/content/morant-ripoll-diana",
-          "url-status": "dead",
-          "archive-date": "2015-11-16",
-          "title": "MORANT RIPOLL, DIANA {{!}} Diputació de Valencia",
-          "date": "2015-11-16",
-          "access-date": "2018-08-16",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
