@@ -185,6 +185,40 @@
               }
             ]
           },
+          "office2": {
+            "text": "Chair of the International Monetary and Financial Committee",
+            "links": [
+              {
+                "text": "Chair of the International Monetary and Financial Committee",
+                "type": "internal",
+                "page": "International Monetary Fund"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "3 January 2022"
+          },
+          "predecessor2": {
+            "text": "Magdalena Andersson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Magdalena Andersson"
+              }
+            ]
+          },
+          "1blankname2": {
+            "text": "Managing Director"
+          },
+          "1namedata2": {
+            "text": "Kristalina Georgieva",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kristalina Georgieva"
+              }
+            ]
+          },
           "office3": {
             "text": "Second Deputy Prime Minister of Spain",
             "links": [
