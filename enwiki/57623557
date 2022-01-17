@@ -90,7 +90,7 @@
             ]
           },
           "image": {
-            "text": "Fernando_Grande-Marlaska_2018_(cropped).jpg"
+            "text": "Fernando Grande-Marlaska with Alejandro Mayorkas.jpg"
           },
           "office": {
             "text": "Minister of the Interior",
@@ -236,6 +236,9 @@
                 "page": "University of Deusto"
               }
             ]
+          },
+          "caption": {
+            "text": "Grande-Marlaska in 2021"
           }
         }
       ]
