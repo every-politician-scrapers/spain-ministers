@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "José Manuel Albares Bueno (born 1972) is a Spanish diplomat who has been serving as Minister of Foreign Affairs, European Union and Cooperation in the government of Prime Minister Pedro Sánchez since 2021.",
+              "text": "José Manuel Albares Bueno (born 22 March 1972) is a Spanish diplomat who has been serving as Minister of Foreign Affairs, European Union and Cooperation in the government of Prime Minister Pedro Sánchez since 2021.",
               "links": [
                 {
                   "text": "Minister of Foreign Affairs, European Union and Cooperation",
@@ -56,8 +56,11 @@
           "template": "family name hatnote"
         },
         {
-          "birth_year": "1972",
-          "template": "birth year and age"
+          "year": "1972",
+          "month": "3",
+          "day": "22",
+          "df": "y",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [
@@ -143,7 +146,7 @@
             "text": "29 January 2020"
           },
           "birth_date": {
-            "text": "1972 (age 50)"
+            "text": "March 22, 1972"
           },
           "birth_place": {
             "text": "Madrid, Spain",
