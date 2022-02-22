@@ -12,7 +12,8 @@
     "People from Pamplona",
     "Politicians from Navarre",
     "Podemos (Spanish political party) politicians",
-    "Spanish women psychologists"
+    "Spanish women psychologists",
+    "Leaders of political parties in Spain"
   ],
   "sections": [
     {
@@ -40,6 +41,9 @@
                   "Ione Belarra Urteaga"
                 ]
               }
+            },
+            {
+              "text": "She has been her party's leader since June 2021."
             }
           ]
         }
