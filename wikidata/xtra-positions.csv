@@ -2,6 +2,7 @@ position,title
 Q107261078,ambassador to Afghanistan
 Q41486618,ambassador to Albania
 Q55238445,ambassador to Algeria
+Q110787866,ambassador to Angola
 Q107223714,ambassador to Antigua and Barbuda
 Q32979761,ambassador to Argentina
 Q55076957,ambassador to Armenia
@@ -49,11 +50,13 @@ Q107165027,ambassador to India
 Q55261204,ambassador to Indonesia
 Q46051201,ambassador to Iran
 Q42950010,ambassador to Iraq
+Q110635880,ambassador to Israel
 Q42898709,ambassador to Italy
 Q107223672,ambassador to Jamaica
 Q41485207,ambassador to Japan
 Q43233600,ambassador to Jordan
 Q106458059,ambassador to Kazakhstan
+Q47165815,ambassador to Kenya
 Q55074391,ambassador to Korea
 Q107185520,ambassador to Kuwait
 Q107185332,ambassador to Kyrgyzstan
@@ -95,9 +98,11 @@ Q107185088,ambassador to Qatar
 Q55063272,ambassador to Republic of Ireland
 Q43260263,ambassador to Romania
 Q40033530,ambassador to Russia
+Q55075674,ambassador to Rwanda
 Q107261412,ambassador to Samoa
 Q48827620,ambassador to San Marino
 Q107335089,ambassador to Saudi Arabia
+Q110801473,ambassador to Serbia
 Q55070977,ambassador to Singapore
 Q43260554,ambassador to Slovakia
 Q66208011,ambassador to Slovenia
@@ -108,6 +113,7 @@ Q55237702,ambassador to Sudan
 Q40033926,ambassador to Sweden
 Q41481341,ambassador to Switzerland
 Q41486150,ambassador to Syria
+Q110639042,ambassador to Taiwan
 Q107366055,ambassador to Tajikistan
 Q107174344,ambassador to Thailand
 Q107223376,ambassador to Tonga
@@ -126,6 +132,7 @@ Q30102934,ambassador to the Holy See
 Q43230566,ambassador to Venezuela
 Q107452122,ambassador to Vietnam
 Q107185140,ambassador to Yemen
+Q110628348,ambassador to Yugoslavia
 Q55284665,Permanent Representative to the OECD
 Q27969749,Permanent Representative to the United Nations
 Q6348379,ambassador of Spain
