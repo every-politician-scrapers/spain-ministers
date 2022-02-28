@@ -40,7 +40,7 @@
         {
           "sentences": [
             {
-              "text": "Felipe VI or Philip VI (Felipe Juan Pablo Alfonso de Todos los Santos de Borbón y Grecia; born 30 January 1968) is the King of Spain.",
+              "text": "Felipe VI or Philip VI (Felipe Juan Pablo Alfonso de Todos los Santos de Borbón y Grecia; born 30 January 1968) is King of Spain.",
               "links": [
                 {
                   "type": "internal",
@@ -260,7 +260,10 @@
             "text": "Felipe VI"
           },
           "image": {
-            "text": "King Felipe VI at the Enthronement of Naruhito (1).jpg"
+            "text": "King Felipe VI of Spain.jpg"
+          },
+          "caption": {
+            "text": "Felipe in January 2019"
           },
           "succession": {
             "text": "King of Spain",
