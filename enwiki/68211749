@@ -1,159 +1,17 @@
 {
-  "title": "Félix Bolaños",
-  "pageID": 68211749,
-  "categories": [
-    "Living people",
-    "1975 births",
-    "Political consultants",
-    "Spanish Socialist Workers' Party politicians",
-    "People from Madrid",
-    "Complutense University of Madrid alumni",
-    "Spanish lawyers",
-    "21st-century Spanish politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Félix Bolaños García (Madrid, 17 December 1975) is a Spanish lawyer and politician who serves as minister of the Presidency, Relations with the Cortes and Democratic Memory of Spain since 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Madrid"
-                },
-                {
-                  "text": "Spanish",
-                  "type": "internal",
-                  "page": "Spaniards"
-                },
-                {
-                  "text": "minister of the Presidency, Relations with the Cortes and Democratic Memory of Spain",
-                  "type": "internal",
-                  "page": "Ministry of the Presidency"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Félix Bolaños García"
-                ]
-              }
-            },
-            {
-              "text": "Previously, he served as Secretary-General of the Office of the Prime Minister of Spain from 2018 to 2021.",
-              "links": [
-                {
-                  "text": "Office of the Prime Minister of Spain",
-                  "type": "internal",
-                  "page": "Prime Minister's Office (Spain)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Spanish politician and lawyer",
-          "template": "short description"
-        },
-        {
-          "year": "1975",
-          "month": "12",
-          "day": "17",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Félix Bolaños"
-          },
-          "image": {
-            "text": "Félix Bolaños 2021 (cropped).jpg"
-          },
-          "office1": {
-            "text": "Minister of the Presidency, Relations with the Cortes and Democratic Memory",
-            "links": [
-              {
-                "text": "Minister of the Presidency, Relations with the Cortes and Democratic Memory",
-                "type": "internal",
-                "page": "Ministry of the Presidency"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Pedro Sánchez",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pedro Sánchez"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Carmen Calvo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carmen Calvo"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "12 July 2021"
-          },
-          "office2": {
-            "text": "Secretary-General of the Office of the Prime Minister of Spain",
-            "links": [
-              {
-                "text": "Secretary-General of the Office of the Prime Minister of Spain",
-                "type": "internal",
-                "page": "Prime Minister's Office (Spain)"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Pedro Sánchez",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pedro Sánchez"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "José Luis Ayllón"
-          },
-          "term_start2": {
-            "text": "9 June 2018"
-          },
-          "term_end2": {
-            "text": "12 July 2021"
-          },
-          "successor2": {
-            "text": "Francisco Martín Aguirre"
-          },
-          "birth_date": {
-            "text": "December 17, 1975"
-          },
-          "birth_place": {
-            "text": "Madrid, Spain",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Madrid"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Spanish"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Félix Bolaños",
+  "image": "Félix Bolaños 2021 (cropped).jpg",
+  "office1": "Minister of the Presidency, Relations with the Cortes and Democratic Memory",
+  "primeminister1": "Pedro Sánchez",
+  "predecessor1": "Carmen Calvo",
+  "term_start1": "12 July 2021",
+  "office2": "Secretary-General of the Office of the Prime Minister of Spain",
+  "primeminister2": "Pedro Sánchez",
+  "predecessor2": "José Luis Ayllón",
+  "term_start2": "9 June 2018",
+  "term_end2": "12 July 2021",
+  "successor2": "Francisco Martín Aguirre",
+  "birth_date": "December 17, 1975",
+  "birth_place": "Madrid, Spain",
+  "nationality": "Spanish"
 }

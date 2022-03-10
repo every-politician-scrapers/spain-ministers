@@ -1,189 +1,25 @@
 {
-  "title": "José Manuel Albares",
-  "pageID": 62790120,
-  "categories": [
-    "Spanish diplomats",
-    "1972 births",
-    "Living people",
-    "Ambassadors of Spain to France",
-    "Foreign ministers of Spain"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "José Manuel Albares Bueno (born 22 March 1972) is a Spanish diplomat who has been serving as Minister of Foreign Affairs, European Union and Cooperation in the government of Prime Minister Pedro Sánchez since 2021.",
-              "links": [
-                {
-                  "text": "Minister of Foreign Affairs, European Union and Cooperation",
-                  "type": "internal",
-                  "page": "Ministry of Foreign Affairs (Spain)"
-                },
-                {
-                  "text": "Prime Minister",
-                  "type": "internal",
-                  "page": "Prime Minister of Spain"
-                },
-                {
-                  "type": "internal",
-                  "page": "Pedro Sánchez"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "José Manuel Albares Bueno"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Spanish diplomat",
-          "template": "short description"
-        },
-        {
-          "date": "February 2022",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Albares",
-            "Bueno"
-          ],
-          "lang": "Spanish",
-          "template": "family name hatnote"
-        },
-        {
-          "year": "1972",
-          "month": "3",
-          "day": "22",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "José Manuel Albares"
-          },
-          "image": {
-            "text": "José Manuel Albares 2021 (cropped).jpg"
-          },
-          "office": {
-            "text": "Minister of Foreign Affairs, European Union and Cooperation",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs, European Union and Cooperation",
-                "type": "internal",
-                "page": "Ministry of Foreign Affairs (Spain)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "12 July 2021"
-          },
-          "primeminister": {
-            "text": "Pedro Sánchez",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pedro Sánchez"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Arancha González Laya",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arancha González Laya"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Ambassador of Spain to France"
-          },
-          "term_start2": {
-            "text": "5 February 2020"
-          },
-          "term_end2": {
-            "text": "12 July 2021"
-          },
-          "predecessor2": {
-            "text": "Fernando Carderera Soler"
-          },
-          "successor2": {
-            "text": "Victorio Redondo Baldrich"
-          },
-          "office3": {
-            "text": "Ambassador of Spain to Monaco"
-          },
-          "term_start3": {
-            "text": "13 May 2020"
-          },
-          "term_end3": {
-            "text": "12 July 2021"
-          },
-          "predecessor3": {
-            "text": "Fernando Carderera Soler"
-          },
-          "office4": {
-            "text": "Secretary-General for International Affairs, European Union, G20 and Global Security",
-            "links": [
-              {
-                "text": "Secretary-General for International Affairs, European Union, G20 and Global Security",
-                "type": "internal",
-                "page": "Cabinet Office (Spain)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "21 June 2018"
-          },
-          "term_end4": {
-            "text": "29 January 2020"
-          },
-          "birth_date": {
-            "text": "March 22, 1972"
-          },
-          "birth_place": {
-            "text": "Madrid, Spain",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Madrid"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Spanish"
-          },
-          "occupation": {
-            "text": "Diplomat",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Diplomat"
-              }
-            ]
-          },
-          "party": {
-            "text": "Spanish Socialist Workers' Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Spanish Socialist Workers' Party"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "José Manuel Albares",
+  "image": "José Manuel Albares 2021 (cropped).jpg",
+  "office": "Minister of Foreign Affairs, European Union and Cooperation",
+  "term_start": "12 July 2021",
+  "primeminister": "Pedro Sánchez",
+  "predecessor": "Arancha González Laya",
+  "office2": "Ambassador of Spain to France",
+  "term_start2": "5 February 2020",
+  "term_end2": "12 July 2021",
+  "predecessor2": "Fernando Carderera Soler",
+  "successor2": "Victorio Redondo Baldrich",
+  "office3": "Ambassador of Spain to Monaco",
+  "term_start3": "13 May 2020",
+  "term_end3": "12 July 2021",
+  "predecessor3": "Fernando Carderera Soler",
+  "office4": "Secretary-General for International Affairs, European Union, G20 and Global Security",
+  "term_start4": "21 June 2018",
+  "term_end4": "29 January 2020",
+  "birth_date": "March 22, 1972",
+  "birth_place": "Madrid, Spain",
+  "nationality": "Spanish",
+  "occupation": "Diplomat",
+  "party": "Spanish Socialist Workers' Party"
 }
