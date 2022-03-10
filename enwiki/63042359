@@ -1,248 +1,30 @@
 {
-  "title": "Isabel Rodríguez García",
-  "pageID": 63042359,
-  "categories": [
-    "1981 births",
-    "Mayors of places in Castilla–La Mancha",
-    "Members of the 10th Congress of Deputies (Spain)",
-    "Members of the 11th Congress of Deputies (Spain)",
-    "Members of the 12th Congress of Deputies (Spain)",
-    "Members of the 8th Senate of Spain",
-    "Living people",
-    "Municipal councillors in the province of Ciudad Real",
-    "Puertollano"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Isabel Rodríguez García (born 1981) is a Spanish politician of the Spanish Socialist Workers' Party (PSOE), serving as Mayor of Puertollano since 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Spanish Socialist Workers' Party"
-                },
-                {
-                  "type": "internal",
-                  "page": "Puertollano"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Isabel Rodríguez García"
-                ]
-              }
-            },
-            {
-              "text": "She has been a member of the Senate (2003–2007) and the Congress of Deputies (2011–2019).",
-              "links": [
-                {
-                  "text": "Senate",
-                  "type": "internal",
-                  "page": "Senate of Spain"
-                },
-                {
-                  "type": "internal",
-                  "page": "Congress of Deputies"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Spanish politician",
-          "template": "short description"
-        },
-        {
-          "year": "1981",
-          "month": "06",
-          "day": "05",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Isabel Rodríguez"
-          },
-          "image": {
-            "text": "Isabel Rodríguez 2021 (cropped).jpg"
-          },
-          "caption": {
-            "text": "In February 2020"
-          },
-          "office": {
-            "text": "Minister of Territorial Policy",
-            "links": [
-              {
-                "text": "Minister of Territorial Policy",
-                "type": "internal",
-                "page": "Ministry of Territorial Policy"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "12 July 2021"
-          },
-          "primeminister": {
-            "text": "Pedro Sánchez",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pedro Sánchez"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Miquel Iceta (As Minister of Territorial Policy and Civil Service)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Miquel Iceta"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Spokesperson of the Government",
-            "links": [
-              {
-                "text": "Spokesperson of the Government",
-                "type": "internal",
-                "page": "Spokesperson of the Government of Spain"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "12 July 2021"
-          },
-          "primeminister1": {
-            "text": "Pedro Sánchez",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pedro Sánchez"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "María Jesús Montero",
-            "links": [
-              {
-                "type": "internal",
-                "page": "María Jesús Montero"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Mayor of Puertollano",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Puertollano"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "15 June 2019"
-          },
-          "term_end2": {
-            "text": "11 July 2021"
-          },
-          "predecessor2": {
-            "text": "Mayte Fernandez"
-          },
-          "successor2": {
-            "text": "Adolfo Muniz"
-          },
-          "office3": {
-            "text": "Member of the Congress of Deputies",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Member of the Congress of Deputies"
-              }
-            ]
-          },
-          "constituency3": {
-            "text": "Ciudad Real",
-            "links": [
-              {
-                "text": "Ciudad Real",
-                "type": "internal",
-                "page": "Ciudad Real (Congress of Deputies constituency)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "2011",
-            "number": 2011
-          },
-          "term_end3": {
-            "text": "2019",
-            "number": 2019
-          },
-          "office4": {
-            "text": "Senator",
-            "links": [
-              {
-                "text": "Senator",
-                "type": "internal",
-                "page": "Senate of Spain"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "2003",
-            "number": 2003
-          },
-          "term_end4": {
-            "text": "2007",
-            "number": 2007
-          },
-          "constituency4": {
-            "text": "Ciudad Real",
-            "links": [
-              {
-                "text": "Ciudad Real",
-                "type": "internal",
-                "page": "Ciudad Real (Senate constituency)"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "June 5, 1981"
-          },
-          "birth_place": {
-            "text": "Abenójar, Spain",
-            "links": [
-              {
-                "text": "Abenójar",
-                "type": "internal",
-                "page": "Abenójar, Ciudad Real"
-              }
-            ]
-          },
-          "party": {
-            "text": "Spanish Socialist Workers' Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Spanish Socialist Workers' Party"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Spanish"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Isabel Rodríguez",
+  "image": "Isabel Rodríguez 2021 (cropped).jpg",
+  "caption": "In February 2020",
+  "office": "Minister of Territorial Policy",
+  "term_start": "12 July 2021",
+  "primeminister": "Pedro Sánchez",
+  "predecessor": "Miquel Iceta (As Minister of Territorial Policy and Civil Service)",
+  "office1": "Spokesperson of the Government",
+  "term_start1": "12 July 2021",
+  "primeminister1": "Pedro Sánchez",
+  "predecessor1": "María Jesús Montero",
+  "office2": "Mayor of Puertollano",
+  "term_start2": "15 June 2019",
+  "term_end2": "11 July 2021",
+  "predecessor2": "Mayte Fernandez",
+  "successor2": "Adolfo Muniz",
+  "office3": "Member of the Congress of Deputies",
+  "constituency3": "Ciudad Real",
+  "term_start3": "2011",
+  "term_end3": "2019",
+  "office4": "Senator",
+  "term_start4": "2003",
+  "term_end4": "2007",
+  "constituency4": "Ciudad Real",
+  "birth_date": "June 5, 1981",
+  "birth_place": "Abenójar, Spain",
+  "party": "Spanish Socialist Workers' Party",
+  "nationality": "Spanish"
 }

@@ -1,247 +1,27 @@
 {
-  "title": "Fernando Grande-Marlaska",
-  "pageID": 57623557,
-  "categories": [
-    "1962 births",
-    "Living people",
-    "Gay politicians",
-    "Interior ministers of Spain",
-    "LGBT legislators in Spain",
-    "LGBT rights activists from Spain",
-    "Politicians from Bilbao",
-    "Spanish judges",
-    "University of Deusto alumni",
-    "Government ministers of Spain",
-    "Members of the 13th Congress of Deputies (Spain)",
-    "Members of the 14th Congress of Deputies (Spain)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Fernando Grande-Marlaska Gómez (born 26 July 1962) is a Spanish judge.",
-              "formatting": {
-                "bold": [
-                  "Fernando Grande-Marlaska Gómez"
-                ]
-              }
-            },
-            {
-              "text": "He was appointed Minister of the Interior in June 2018 by Prime Minister Pedro Sánchez.",
-              "links": [
-                {
-                  "text": "Minister of the Interior",
-                  "type": "internal",
-                  "page": "Ministry of the Interior (Spain)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Pedro Sánchez"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "June 2018",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Grande-Marlaska",
-            "Gómez"
-          ],
-          "lang": "Spanish",
-          "template": "family name hatnote"
-        },
-        {
-          "year": "1962",
-          "month": "7",
-          "day": "26",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "list": [
-            "Gorka Gómez",
-            "2005"
-          ],
-          "template": "married"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Fernando Grande-Marlaska"
-          },
-          "honorific_prefix": {
-            "text": "The Most Excellent",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Most Excellent"
-              }
-            ]
-          },
-          "image": {
-            "text": "Fernando Grande-Marlaska with Alejandro Mayorkas.jpg"
-          },
-          "office": {
-            "text": "Minister of the Interior",
-            "links": [
-              {
-                "text": "Minister of the Interior",
-                "type": "internal",
-                "page": "Ministry of the Interior (Spain)"
-              }
-            ]
-          },
-          "monarch": {
-            "text": "Felipe VI",
-            "links": [
-              {
-                "text": "Felipe VI",
-                "type": "internal",
-                "page": "Felipe VI of Spain"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Pedro Sánchez",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pedro Sánchez"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 June 2018"
-          },
-          "predecessor": {
-            "text": "Juan Ignacio Zoido",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Juan Ignacio Zoido"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of the General Council of the Judiciary",
-            "links": [
-              {
-                "type": "internal",
-                "page": "General Council of the Judiciary"
-              }
-            ]
-          },
-          "president1": {
-            "text": "Carlos Lesmes Serrano",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carlos Lesmes Serrano"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "4 December 2013"
-          },
-          "term_end1": {
-            "text": "7 June 2018"
-          },
-          "office2": {
-            "text": "Presiding judge of the Criminal Chamber of the Audiencia Nacional",
-            "links": [
-              {
-                "text": "Audiencia Nacional",
-                "type": "internal",
-                "page": "Audiencia Nacional (Spain)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "16 April 2013"
-          },
-          "term_end2": {
-            "text": "6 June 2018"
-          },
-          "predecessor2": {
-            "text": "Javier Gómez Bermúdez",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Javier Gómez Bermúdez"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of the Congress of Deputies",
-            "links": [
-              {
-                "text": "Congress of Deputies",
-                "type": "internal",
-                "page": "Congress of Deputies (Spain)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "21 May 2019"
-          },
-          "term_end3": {
-            "text": "21 February 2020"
-          },
-          "constituency3": {
-            "text": "Cádiz",
-            "links": [
-              {
-                "text": "Cádiz",
-                "type": "internal",
-                "page": "Cádiz (Spanish Congress electoral district)"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Fernando Grande-Marlaska Gómez"
-          },
-          "birth_date": {
-            "text": "July 26, 1962"
-          },
-          "birth_place": {
-            "text": "Bilbao, Euskadi, Spain",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bilbao"
-              },
-              {
-                "text": "Euskadi",
-                "type": "internal",
-                "page": "Basque Country (autonomous community)"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Deusto",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Deusto"
-              }
-            ]
-          },
-          "caption": {
-            "text": "Grande-Marlaska in 2021"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Fernando Grande-Marlaska",
+  "honorific_prefix": "The Most Excellent",
+  "image": "Fernando Grande-Marlaska with Alejandro Mayorkas.jpg",
+  "office": "Minister of the Interior",
+  "monarch": "Felipe VI",
+  "primeminister": "Pedro Sánchez",
+  "term_start": "7 June 2018",
+  "predecessor": "Juan Ignacio Zoido",
+  "office1": "Member of the General Council of the Judiciary",
+  "president1": "Carlos Lesmes Serrano",
+  "term_start1": "4 December 2013",
+  "term_end1": "7 June 2018",
+  "office2": "Presiding judge of the Criminal Chamber of the Audiencia Nacional",
+  "term_start2": "16 April 2013",
+  "term_end2": "6 June 2018",
+  "predecessor2": "Javier Gómez Bermúdez",
+  "office3": "Member of the Congress of Deputies",
+  "term_start3": "21 May 2019",
+  "term_end3": "21 February 2020",
+  "constituency3": "Cádiz",
+  "birth_name": "Fernando Grande-Marlaska Gómez",
+  "birth_date": "July 26, 1962",
+  "birth_place": "Bilbao, Euskadi, Spain",
+  "alma_mater": "University of Deusto",
+  "caption": "Grande-Marlaska in 2021"
 }

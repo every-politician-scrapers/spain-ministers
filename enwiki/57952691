@@ -1,422 +1,50 @@
 {
-  "title": "María Jesús Montero",
-  "pageID": 57952691,
-  "categories": [
-    "1966 births",
-    "21st-century Spanish women politicians",
-    "Finance ministers of Andalusia",
-    "Living people",
-    "Members of the 8th Parliament of Andalusia",
-    "Members of the 9th Parliament of Andalusia",
-    "Members of the 10th Parliament of Andalusia",
-    "Members of the 13th Congress of Deputies (Spain)",
-    "People from Seville",
-    "Economy and finance ministers of Spain",
-    "Spanish public health doctors",
-    "Spanish Socialist Workers' Party politicians",
-    "University of Seville alumni",
-    "Women government ministers of Spain",
-    "Female finance ministers",
-    "Women members of the Congress of Deputies (Spain)",
-    "Members of the 14th Congress of Deputies (Spain)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "María Jesús Montero Cuadrado (born 4 February 1966), is a Spanish hospital administrator and politician of the Spanish Socialist Workers' Party (PSOE) who has been serving as Minister of Finance and Civil Service under Prime Minister Pedro Sánchez since 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Spanish Socialist Workers' Party"
-                },
-                {
-                  "text": "Minister of Finance and Civil Service",
-                  "type": "internal",
-                  "page": "Ministry of Finance (Spain)"
-                },
-                {
-                  "text": "Prime Minister",
-                  "type": "internal",
-                  "page": "Prime Minister of Spain"
-                },
-                {
-                  "type": "internal",
-                  "page": "Pedro Sánchez"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "María Jesús Montero Cuadrado"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Spanish politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Montero",
-            "Cuadrado"
-          ],
-          "lang": "Spanish",
-          "template": "family name hatnote"
-        },
-        {
-          "year": "1966",
-          "month": "2",
-          "day": "4",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "María Jesús Montero"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Congress of Deputies (Spain)"
-              }
-            ]
-          },
-          "honorific_prefix": {
-            "text": "The Most Excellent",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Most Excellent"
-              }
-            ]
-          },
-          "image": {
-            "text": "María Jesús Montero 2020 (cropped).jpg"
-          },
-          "office": {
-            "text": "Minister of Finance and Civil Service",
-            "links": [
-              {
-                "text": "Minister of Finance and Civil Service",
-                "type": "internal",
-                "page": "Ministry of the Treasury (Spain)"
-              }
-            ]
-          },
-          "termstart": {
-            "text": "7 June 2018"
-          },
-          "predecessor": {
-            "text": "Cristóbal Montoro",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cristóbal Montoro"
-              }
-            ]
-          },
-          "monarch": {
-            "text": "Felipe VI",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Felipe VI"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Pedro Sánchez",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pedro Sánchez"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Spokesperson of the Government",
-            "links": [
-              {
-                "text": "Spokesperson of the Government",
-                "type": "internal",
-                "page": "Spokesperson of the Government of Spain"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "13 January 2020"
-          },
-          "term_end1": {
-            "text": "11 July 2021"
-          },
-          "predecessor1": {
-            "text": "Isabel Celaá",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Isabel Celaá"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Isabel Rodríguez García",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Isabel Rodríguez García"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Pedro Sánchez",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pedro Sánchez"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Regional Minister of Finance and Public Administrations of Andalusia",
-            "links": [
-              {
-                "text": "Regional Minister of Finance and Public Administrations of Andalusia",
-                "type": "internal",
-                "page": "Regional Government of Andalusia"
-              }
-            ]
-          },
-          "president2": {
-            "text": "Susana Díaz",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Susana Díaz"
-              }
-            ]
-          },
-          "termstart2": {
-            "text": "9 September 2013"
-          },
-          "termend2": {
-            "text": "6 June 2018"
-          },
-          "predecessor2": {
-            "text": "Carmen Martinez Aguayo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Carmen Martinez Aguayo"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Antonio Ramírez de Arellano López (Economy, Finance and Public Administrations)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Antonio Ramírez de Arellano López"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Regional Minister of Health and Social Welfare of Andalusia",
-            "links": [
-              {
-                "text": "Regional Minister of Health and Social Welfare of Andalusia",
-                "type": "internal",
-                "page": "Regional Government of Andalusia"
-              }
-            ]
-          },
-          "president3": {
-            "text": "José Antonio Griñán",
-            "links": [
-              {
-                "type": "internal",
-                "page": "José Antonio Griñán"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "7 May 2012"
-          },
-          "term_end3": {
-            "text": "9 September 2013"
-          },
-          "predecessor3": {
-            "text": "Herself (Health and Consumer Affairs) Micaela Navarro (Equality and Social Welfare)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Micaela Navarro"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "María José Sánchez Rubio (Health and Social Policies)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "María José Sánchez Rubio"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Regional Minister of Health and Consumer Affairs of Andalusia",
-            "links": [
-              {
-                "text": "Regional Minister of Health and Consumer Affairs of Andalusia",
-                "type": "internal",
-                "page": "Regional Government of Andalusia"
-              }
-            ]
-          },
-          "termstart4": {
-            "text": "25 April 2004"
-          },
-          "termend4": {
-            "text": "7 May 2012"
-          },
-          "predecessor4": {
-            "text": "Francisco Vallejo Serrano",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Francisco Vallejo Serrano"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Herself (Health and Social Welfare)"
-          },
-          "president4": {
-            "text": "Manuel Chaves (2004–2009) José Antonio Griñan (2009–2012)",
-            "links": [
-              {
-                "text": "Manuel Chaves",
-                "type": "internal",
-                "page": "Manuel Chaves (politician)"
-              },
-              {
-                "type": "internal",
-                "page": "José Antonio Griñan"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Member of the Congress of Deputies",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Congress of Deputies"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "21 May 2019"
-          },
-          "constituency5": {
-            "text": "Seville",
-            "links": [
-              {
-                "text": "Seville",
-                "type": "internal",
-                "page": "Seville (Congress of Deputies constituency)"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Member of the Parliament of Andalusia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Parliament of Andalusia"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "9 March 2008"
-          },
-          "term_end6": {
-            "text": "6 June 2018"
-          },
-          "constituency6": {
-            "text": "Seville",
-            "links": [
-              {
-                "text": "Seville",
-                "type": "internal",
-                "page": "Seville (Parliament of Andalusia)"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "February 4, 1966"
-          },
-          "birth_place": {
-            "text": "Seville, Spain",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Seville"
-              },
-              {
-                "type": "internal",
-                "page": "Spain"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Rafael Ibáñez Reche"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "parents": {
-            "text": "Manuel Montero Concepción Cuadrado"
-          },
-          "alma_mater": {
-            "text": "University of Seville EADA Business School",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Seville"
-              },
-              {
-                "type": "internal",
-                "page": "EADA Business School"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Physician, hospital administrator and politician"
-          },
-          "party": {
-            "text": "Spanish Socialist Workers' Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Spanish Socialist Workers' Party"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "María Jesús Montero",
+  "honorific-suffix": "MP",
+  "honorific_prefix": "The Most Excellent",
+  "image": "María Jesús Montero 2020 (cropped).jpg",
+  "office": "Minister of Finance and Civil Service",
+  "termstart": "7 June 2018",
+  "predecessor": "Cristóbal Montoro",
+  "monarch": "Felipe VI",
+  "primeminister": "Pedro Sánchez",
+  "office1": "Spokesperson of the Government",
+  "term_start1": "13 January 2020",
+  "term_end1": "11 July 2021",
+  "predecessor1": "Isabel Celaá",
+  "successor1": "Isabel Rodríguez García",
+  "primeminister1": "Pedro Sánchez",
+  "office2": "Regional Minister of Finance and Public Administrations of Andalusia",
+  "president2": "Susana Díaz",
+  "termstart2": "9 September 2013",
+  "termend2": "6 June 2018",
+  "predecessor2": "Carmen Martinez Aguayo",
+  "successor2": "Antonio Ramírez de Arellano López (Economy, Finance and Public Administrations)",
+  "office3": "Regional Minister of Health and Social Welfare of Andalusia",
+  "president3": "José Antonio Griñán",
+  "term_start3": "7 May 2012",
+  "term_end3": "9 September 2013",
+  "predecessor3": "Herself (Health and Consumer Affairs) Micaela Navarro (Equality and Social Welfare)",
+  "successor3": "María José Sánchez Rubio (Health and Social Policies)",
+  "office4": "Regional Minister of Health and Consumer Affairs of Andalusia",
+  "termstart4": "25 April 2004",
+  "termend4": "7 May 2012",
+  "predecessor4": "Francisco Vallejo Serrano",
+  "successor4": "Herself (Health and Social Welfare)",
+  "president4": "Manuel Chaves (2004–2009) José Antonio Griñan (2009–2012)",
+  "office5": "Member of the Congress of Deputies",
+  "term_start5": "21 May 2019",
+  "constituency5": "Seville",
+  "office6": "Member of the Parliament of Andalusia",
+  "term_start6": "9 March 2008",
+  "term_end6": "6 June 2018",
+  "constituency6": "Seville",
+  "birth_date": "February 4, 1966",
+  "birth_place": "Seville, Spain",
+  "spouse": "Rafael Ibáñez Reche",
+  "children": "2",
+  "parents": "Manuel Montero Concepción Cuadrado",
+  "alma_mater": "University of Seville EADA Business School",
+  "occupation": "Physician, hospital administrator and politician",
+  "party": "Spanish Socialist Workers' Party"
 }
