@@ -6,9 +6,9 @@ Q1040591,Miriam Blasco,spouse,Q6120203,Nicola Fairbrother
 Q1043072,Carlos Miranda y Elío,father,Q43094649,Carlos de Miranda y Quartín
 Q104699047,Javier Oyarzun Iñarra,sibling,Q104698985,María Oyarzun Iñarra
 Q104713075,Anna Grau,partner,Q3321086,Fernando Sánchez Dragó
-Q104760631,,father,Q48475925,Josep Viña Boldó
+Q104760631,Maria Jesús Viña Ariñoby OppsMetal,father,Q48475925,Josep Viña Boldó
 Q105845741,Juan de la Cruz Garriga Dómenech,relative,Q62585987,Ignacio Garriga Vaz de Conceição
-Q106571459,Pablo Larrauri Altonaga,child,Q97499013,
+Q106571459,Pablo Larrauri Altonaga,child,Q97499013,Estibaliz Larrauri Aranguren
 Q106572086,Esther Agirre Ruiz,spouse,Q3753862,Joseba Permach
 Q106572093,José Antonio Etxeberria Arbelaiz,sibling,Q6946636,Rufi Etxeberria
 Q10819,Mariano Rajoy,child,Q51168552,Mariano Rajoy Fernández
@@ -39,7 +39,7 @@ Q11921017,Esther López Barceló,spouse,Q5815687,Ignacio Blanco Giner
 Q11922769,Francesc Homs Molist,sibling,Q19301177,Mercè Homs i Molist
 Q11924122,Germà Gordó i Aubarell,spouse,Q19301797,Roser Bach Fabregó
 Q11927747,Joan Huguet i Rotger,sibling,Q22964632,Llorenç Huguet Rotger
-Q11928066,Joaquim Arrufat i Ibáñez,mother,Q97191640,
+Q11928066,Joaquim Arrufat i Ibáñez,mother,Q97191640,Maria Luisa Ibáñez Milian
 Q11928768,Josep M. Vila D'Abadal Serra,father,Q19301112,Marià Vila-Abadal Vilaplana
 Q11928802,Josep Melià Ques,father,Q11928801,Josep Melià Pericàs
 Q11934485,Macarena Montesinos de Miguel,father,Q11929251,Juan Antonio Montesinos
@@ -67,7 +67,7 @@ Q12260753,Joseba Arregi,sibling,Q51473718,Begoña Arregi
 Q12261084,Juana Iturmendi,relative,Q8201315,Antonio Iturmendi Bañales
 Q12261084,Juana Iturmendi,sibling,Q106581494,Pedro Iturmendi Maguregui
 Q12262821,Maddalen Iriarte,sibling,Q91466535,Nerea Iriarte
-Q12262821,Maddalen Iriarte,spouse,Q96156000,
+Q12262821,Maddalen Iriarte,spouse,Q96156000,Joseba Balerdi
 Q12388369,Fermín Zelada Jurado,father,Q17413433,Fermín Zelada de Andrés
 Q12388369,Fermín Zelada Jurado,sibling,Q12393325,Miguel Zelada
 Q12390717,Irene Garrido,sibling,Q12388394,Fernando Garrido Valenzuela
@@ -75,7 +75,7 @@ Q12393033,María Isabel Salazar Bello,child,Q8194245,Alejandro Tobar
 Q12397415,Pedro Puy Fraga,father,Q12388950,Francisco Puy Muñoz
 Q12785,Joan Saura i Laporta,partner,Q11682994,Imma Mayol i Beltran
 Q1297890,Jorge Fernández Díaz,sibling,Q8193492,Alberto Fernández Díaz
-Q1317281,Miguel Arias Cañete,spouse,Q99976362,
+Q1317281,Miguel Arias Cañete,spouse,Q99976362,Micaela Domecq Solís-Beaumont
 Q13414872,Muriel Casals,father,Q23502553,Lluís Casals i Garcia
 Q13414872,Muriel Casals,sibling,Q19931614,Montserrat Casals Couturier
 Q13613658,Rosa Vindel,father,Q5798770,Daniel Vindel
@@ -124,7 +124,6 @@ Q17036785,Lídia Santos i Arnau,spouse,Q14623515,Jordi Pedret
 Q17036852,Sergi Sabrià i Benito,father,Q64027021,Martí Sabrià Deulofeu
 Q17037054,Jordi Turull i Negre,spouse,Q60688989,Blanca Bragulat Rovira
 Q17044880,Oriol Nel·lo i Colom,sibling,Q16943414,David Nel·lo i Colom
-Q17045132,Íñigo Errejón,partner,,
 Q171194,Núria de Gispert,father,Q9007876,Ignasi de Gispert i Jordà
 Q171194,Núria de Gispert,relative,Q544250,Dorotea de Chopitea
 Q17195282,Heribert Padrol i Munté,spouse,Q25847824,Elsa Artadi i Vila
@@ -175,7 +174,7 @@ Q2083681,Esperanza Aguirre,child,Q5444889,Fernando Ramírez de Haro
 Q2083681,Esperanza Aguirre,relative,Q440610,Ouka Lele
 Q2083681,Esperanza Aguirre,relative,Q5940069,José Gil de Biedma
 Q2083681,Esperanza Aguirre,relative,Q8240605,Baldomero Vega de Seoane y Andrea Pérez
-Q2083681,Esperanza Aguirre,relative,Q978013,
+Q2083681,Esperanza Aguirre,relative,Q978013,Jaime Gil de Biedma
 Q2083681,Esperanza Aguirre,spouse,Q5444892,"Fernando Ramírez de Haro, 16th Count of Murillo"
 Q20875709,Xavier Cima i Ruiz,spouse,Q13786674,Inés Arrimadas
 Q20875963,Anna Gabriel i Sabaté,mother,Q58428707,Maribel Sabaté
@@ -410,10 +409,10 @@ Q470732,José Antonio Labordeta,father,Q28530237,Miguel Labordeta Palacios
 Q470732,José Antonio Labordeta,mother,Q28530232,Sara Subías Bardají
 Q470732,José Antonio Labordeta,sibling,Q28530698,Manuel Labordeta Subías
 Q470732,José Antonio Labordeta,sibling,Q3572431,Miguel Labordeta Subías
-Q470732,José Antonio Labordeta,sibling,Q99322890,
-Q470732,José Antonio Labordeta,sibling,Q99323381,
+Q470732,José Antonio Labordeta,sibling,Q99322890,Luis Labordeta Subías
+Q470732,José Antonio Labordeta,sibling,Q99323381,Donato Labordeta Subías
 Q470732,José Antonio Labordeta,spouse,Q28530644,Juana de Grandes
-Q47087275,Leire Pinedo,partner,Q97358214,
+Q47087275,Leire Pinedo,partner,Q97358214,Ibon Cabo
 Q47087275,Leire Pinedo,relative,Q107295934,Loreto Cabo
 Q47087275,Leire Pinedo,relative,Q107338075,Txema Cabo
 Q47087275,Leire Pinedo,relative,Q110279085,Borja Cabo
@@ -423,13 +422,13 @@ Q4740163,Carles Puigdemont,mother,Q50925996,Núria Casamajó
 Q4740163,Carles Puigdemont,sibling,Q64733623,Montserrat Puigdemont i Casamajó
 Q4740163,Carles Puigdemont,spouse,Q21998656,Marcela Topor
 Q47464110,Alicia Delibes Liniers,relative,Q157326,Miguel Delibes
-Q47464110,Alicia Delibes Liniers,relative,Q960685,
+Q47464110,Alicia Delibes Liniers,relative,Q960685,"Santiago de Liniers, 1st Count of Buenos Aires"
 Q47464110,Alicia Delibes Liniers,spouse,Q55704755,Regino García-Badell
 Q47464148,Luis Peral Guerra,father,Q108293418,Luis Peral Buesa
 Q47464148,Luis Peral Guerra,relative,Q66455955,Luis Peral Sáez
 Q47490746,Isabel Serra,sibling,Q26866971,Clara Serra Sánchez
 Q47506259,Miguel Reneses,spouse,Q61890238,María Teresa Fernández González
-Q4755077,Andrea Fabra Fernández,father,Q975901,
+Q4755077,Andrea Fabra Fernández,father,Q975901,Carlos Fabra
 Q4755077,Andrea Fabra Fernández,spouse,Q3815062,Juan José Güemes
 Q4779594,Ada Colau,partner,Q63395766,Adrià Alemany
 Q48033764,Enrique Ruiz Escudero,father,Q2840856,Carlos Ruiz Soto
@@ -584,6 +583,6 @@ Q9096568,Xavier Pericay,relative,Q5666913,Alfons Hosta Bellpuig
 Q9096574,Xavier Sabaté i Ibarz,sibling,Q17036724,Antoni Sabaté i Ibarz
 Q93381274,Pau Juvillà i Ballester,mother,Q28744763,Magda Ballester Sirvent
 Q947070,Toni Cantó,father,Q104524522,Antonio Cantó Armengod
-Q97145256,Eraitz Saez de Egilaz,father,Q97145511,
+Q97145256,Eraitz Saez de Egilaz,father,Q97145511,Carlos Sáez de Eguilaz
 Q973064,Xavier Trias,relative,Q9012658,Jordi Cabré i Trias
 Q97499013,Estibaliz Larrauri Aranguren,father,Q106571459,Pablo Larrauri Altonaga
