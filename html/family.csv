@@ -133,7 +133,7 @@ Q187568,Willy Meyer Pleite,child,Q82318256,Amanda Meyer
 Q187568,Willy Meyer Pleite,spouse,Q104093162,Julia Hidalgo de Argüeso
 Q191045,Felipe VI of Spain,child,Q214369,"Leonor, Princess of Asturias"
 Q191045,Felipe VI of Spain,child,Q847010,Infanta Sofía of Spain
-Q191045,Felipe VI of Spain,father,Q19943,Juan Carlos I de España
+Q191045,Felipe VI of Spain,father,Q19943,Juan Carlos I of Spain
 Q191045,Felipe VI of Spain,godparent,Q160001,Victoria Eugenie of Battenberg
 Q191045,Felipe VI of Spain,godparent,Q313857,"Infante Juan, Count of Barcelona"
 Q191045,Felipe VI of Spain,mother,Q156548,Queen Sofía of Spain
@@ -156,6 +156,20 @@ Q1945815,Quim Torra,spouse,Q53186083,Carola Miró
 Q1961896,Iñigo Urkullu Renteria,spouse,Q30155903,Lucia Arieta
 Q1969815,Juan José Imbroda,sibling,Q3163154,Javier Imbroda
 Q19928416,Jordi Sànchez i Picanyol,partner,Q54920223,Susanna Barreda
+Q19943,Juan Carlos I of Spain,child,Q191045,Felipe VI of Spain
+Q19943,Juan Carlos I of Spain,child,Q230580,Infanta Cristina of Spain
+Q19943,Juan Carlos I of Spain,child,Q54386,"Infanta Elena, Duchess of Lugo"
+Q19943,Juan Carlos I of Spain,father,Q313857,"Infante Juan, Count of Barcelona"
+Q19943,Juan Carlos I of Spain,godparent,Q160001,Victoria Eugenie of Battenberg
+Q19943,Juan Carlos I of Spain,godparent,Q518879,Prince Carlos of the Two Sicilies
+Q19943,Juan Carlos I of Spain,mother,Q235128,"Infanta María de las Mercedes, Countess of Barcelona"
+Q19943,Juan Carlos I of Spain,partner,Q2899692,Corinna zu Sayn-Wittgenstein
+Q19943,Juan Carlos I of Spain,partner,Q2929242,Bárbara Rey
+Q19943,Juan Carlos I of Spain,partner,Q48094025,Marta Gayà
+Q19943,Juan Carlos I of Spain,sibling,Q237165,"Infanta Margarita, Duchess of Soria"
+Q19943,Juan Carlos I of Spain,sibling,Q240580,"Infanta Pilar, Duchess of Badajoz"
+Q19943,Juan Carlos I of Spain,sibling,Q704310,Infante Alfonso of Spain
+Q19943,Juan Carlos I of Spain,spouse,Q156548,Queen Sofía of Spain
 Q20004409,José María González Ortea,spouse,Q19998164,Catalina Enseñat Enseñat
 Q20016592,Marta Silva de Lapuerta,father,Q5857864,Federico Silva Muñoz
 Q20016592,Marta Silva de Lapuerta,relative,Q16651619,Álvaro Lapuerta
