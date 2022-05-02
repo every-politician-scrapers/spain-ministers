@@ -2,7 +2,7 @@ position,person,personID,start,end,gender,DOB,DOD,image,enwiki
 Member of the Congress of Deputies,Salvador Pániker,Q9073052,1977,2017-04-01,male,1927-03-01,2017-04-01,,
 Member of the Congress of Deputies,Salvador Clotas,Q11946755,1980-04-09,2004-01-20,male,1938-06-04,,,
 Member of the Congress of Deputies,Jordi Marsal i Muntalà,Q11928320,1982-11-10,2008-01-15,male,1951-05-08,,,
-Member of the Congress of Deputies,Luis Alberto Aguiriano Forniés,Q3753615,1986-07-15,2000-01-18,male,1940-04-01,2019-06-23,,
+Member of the Congress of Deputies,Luis Alberto Aguiriano Forniés,Q3753615,1986-07-15,2000-01-18,male,1940-04-01,2019-06-23,,Luis Alberto Aguiriano
 Member of the Congress of Deputies,Manuel Milián Mestre,Q11690659,1989-11-13,2000-01-18,male,1943,,,
 Member of the Congress of Deputies,José Pascual Monzo,Q6293673,1989-11-14,2000-01-18,male,1952,,,José Pascual Monzo
 Member of the Congress of Deputies,Ángeles Maestro,Q3393061,1989-11-21,2000-01-18,female,1952-02-06,,Nines Maestro.JPG,
@@ -22,7 +22,7 @@ Member of the Congress of Deputies,José María Chiquillo Barber,Q3068216,1994-1
 Member of the Congress of Deputies,Enriqueta Seller Roca de Togores,Q17389524,1996-01-30,2008-01-15,female,1962-03-02,,,
 Member of the Congress of Deputies,Gervasio Martínez-Villaseñor García,Q43841192,1996-03-08,2000-01-18,male,1938-05-04,,,
 Member of the Congress of Deputies,José Vicente Beviá Pastor,Q11038439,1996-03-11,2000-04-05,male,1933-10-06,2017-07-28,,José Vicente Beviá Pastor
-Member of the Congress of Deputies,Luis Alberto Aguiriano Forniés,Q3753615,1996-03-11,2000-01-18,male,1940-04-01,2019-06-23,,
+Member of the Congress of Deputies,Luis Alberto Aguiriano Forniés,Q3753615,1996-03-11,2000-01-18,male,1940-04-01,2019-06-23,,Luis Alberto Aguiriano
 Member of the Congress of Deputies,María Jesús Aramburu del Río,Q16169065,1996-03-12,2000-01-18,female,1951-10-28,,,
 Member of the Congress of Deputies,Francisco Antonio González,Q20085334,1996-03-12,2000-01-18,male,1960-08-31,2015-06-02,,
 Member of the Congress of Deputies,Gabino Puche Rodríguez Acosta,Q20994839,1996-03-12,2000-04-05,male,1949-04-01,,,
@@ -3119,7 +3119,7 @@ Member of the Congress of Deputies,Carla Toscano de Balbín,Q63862138,2019-05-17
 Member of the Congress of Deputies,Magdalena Contestí,Q63882095,2019-05-17,2019-09-24,female,1985-10-24,,Magdalena Margarita Contestí Rosselló (cropped).jpg,
 Member of the Congress of Deputies,Ricardo Chamorro Delmo,Q64787957,2019-05-17,2019-12-02,male,1977-01-01,,,Ricardo Chamorro Delmo
 Member of the Congress of Deputies,José Ramírez del Río,Q65146312,2019-05-17,2019-12-02,male,1973-02-10,,,
-Member of the Congress of Deputies,María de los Reyes Romero Vilches,Q65146324,2019-05-17,2019-12-02,female,1967-12-30,,,Reyes Romero Vilches
+Member of the Congress of Deputies,María de los Reyes Romero Vilches,Q65146324,2019-05-17,2019-12-02,female,1967-12-30,,,María de los Reyes Romero Vilches
 Member of the Congress of Deputies,Patricia Rueda Perelló,Q65146326,2019-05-17,2019-12-02,female,1976-10-20,,Patricia Rueda (2021) (cropped).jpg,
 Member of the Congress of Deputies,María Isabel Blanco Llamas,Q65275311,2019-05-17,2019-07-17,female,1972-08-19,,"(Isabel Blanco Llamas) La consejera de Familia, Isabel Blanco, responde a las preguntas de actualidad de los periodistas (cropped).jpg",
 Member of the Congress of Deputies,Pablo Cambronero Piqueras,Q66663393,2019-05-17,2019-12-02,male,1979-09-01,,,
@@ -3417,7 +3417,7 @@ Member of the Congress of Deputies,José Ramírez del Río,Q65146312,2019-12-03,
 Member of the Congress of Deputies,Víctor Manuel Sánchez del Real,Q65146315,2019-12-03,,male,1969-11-23,,Víctor Manuel Sánchez del Real.jpg,Víctor Manuel Sánchez del Real
 Member of the Congress of Deputies,José María Figaredo Álvarez-Sala,Q65146316,2019-12-03,,male,1988-09-26,,José María Figaredo Álvarez-Sala.jpg,José María Figaredo
 Member of the Congress of Deputies,Pablo Sáez Alonso-Muñumer,Q65146321,2019-12-03,,male,1964-06-11,,,
-Member of the Congress of Deputies,María de los Reyes Romero Vilches,Q65146324,2019-12-03,,female,1967-12-30,,,Reyes Romero Vilches
+Member of the Congress of Deputies,María de los Reyes Romero Vilches,Q65146324,2019-12-03,,female,1967-12-30,,,María de los Reyes Romero Vilches
 Member of the Congress of Deputies,Patricia Rueda Perelló,Q65146326,2019-12-03,,female,1976-10-20,,Patricia Rueda (2021) (cropped).jpg,
 Member of the Congress of Deputies,Belén Fernández Casero,Q65275034,2019-12-03,,female,1974-12-22,,(Belén Fernández Casero) Acto Igualdad en Cáceres (33818208238) (cropped).jpg,Belén Fernández Casero
 Member of the Congress of Deputies,Ana Prieto,Q65275040,2019-12-03,,female,1965-04-03,,,
@@ -6650,7 +6650,7 @@ Member of the Parliament of the Balearic Islands,Gabriel Barceló Milta,Q9265088
 Member of the Parliament of the Balearic Islands,Josep Melià Ques,Q11928802,2007-07-12,2011-03-29,male,1972-03-27,,JosepMelia.jpg,
 Member of the Parliament of the Balearic Islands,Antoni Alorda Vilarrubias,Q16165212,2007-07-12,2011-03-28,male,1965-06-07,,Alorda.jpg,
 Member of the Parliament of the Balearic Islands,Gaspar Oliver Mut,Q20002390,2008-04-01,2011-03-29,male,1952-03-22,,Gaspar Oliver Mut.jpg,
-Member of the Parliament of the Balearic Islands,Marc Pons Pons,Q9028503,2010-02-02,2011-03-29,male,1973-03-21,,Marc Pons i Pons.jpg,
+Member of the Parliament of the Balearic Islands,Marc Pons Pons,Q9028503,2010-02-02,2015-03-31,male,1973-03-21,,Marc Pons i Pons.jpg,
 Member of the Parliament of the Balearic Islands,Maria Antònia Sureda Martí,Q21001563,2010-03-09,2011-03-29,female,1975-06-16,,,
 Member of the Parliament of the Balearic Islands,María Virtudes Marí Ferrer,Q20877116,2010-07-20,2015-03-31,female,1965-08-13,,,
 Member of the Parliament of the Balearic Islands,José Ramón Bauzá,Q3066505,2011-02-08,2015-07-06,male,1970-11-16,,José Ramón Bauzá Díaz - Official portrait 2.JPG,José Ramón Bauzá
@@ -6668,10 +6668,15 @@ Member of the Parliament of the Balearic Islands,Álvaro Luis Gijón Carrasco,Q2
 Member of the Parliament of the Balearic Islands,Maria Concepció Obrador Guzmán,Q20877001,2011-06-07,2015-03-31,female,1956-03-24,,,
 Member of the Parliament of the Balearic Islands,Antònia Maria Perelló Jorquera,Q20877009,2011-06-07,2011-08-11,female,,,,
 Member of the Parliament of the Balearic Islands,Federico Antonio Sbert Muntaner,Q20877027,2011-06-07,2011-06-23,male,,,,
+Member of the Parliament of the Balearic Islands,Margalida Serra Cabanellas,Q20877031,2011-06-07,2015-03-31,female,1973-07-31,,,
 Member of the Parliament of the Balearic Islands,Damià Borràs Barber,Q20877065,2011-06-07,,male,1957,,,
 Member of the Parliament of the Balearic Islands,Damià Borràs Barber,Q20877065,2011-06-07,2015-05-24,male,1957,,,
 Member of the Parliament of the Balearic Islands,Damià Borràs Barber,Q20877065,2011-06-07,2019-05-26,male,1957,,,
+Member of the Parliament of the Balearic Islands,José Maria Camps Buenaventura,Q20877067,2011-06-07,2015-03-31,male,1971-04-16,,,
+Member of the Parliament of the Balearic Islands,Antoni Camps Casasnovas,Q20877070,2011-06-07,2019-02-26,male,1970-07-25,,,
 Member of the Parliament of the Balearic Islands,Margaret Mercadal Camps,Q20877075,2011-06-07,2011-06-23,female,1983-06-05,,,
+Member of the Parliament of the Balearic Islands,María Asunción Pons Fullana,Q20877080,2011-06-07,2015-03-31,female,1965-08-23,,,
+Member of the Parliament of the Balearic Islands,Alejandro Sanz Benejam,Q20877083,2011-06-07,2015-03-31,male,1980-01-14,,,
 Member of the Parliament of the Balearic Islands,Josep Torres Cardona,Q20877146,2011-06-07,2015-03-31,male,1948-10-18,,,
 Member of the Parliament of the Balearic Islands,Rafael Bosch Sans,Q2894981,2011-06-07,2011-06-20,male,1959-04-05,,Rafael Bosch.jpg,
 Member of the Parliament of the Balearic Islands,Margarita Prohens Rigo,Q66663490,2011-06-07,2019-05-06,female,1982-05-24,,,Marga Prohens
@@ -6682,9 +6687,7 @@ Member of the Parliament of the Balearic Islands,Pilar Costa Serra,Q9059618,2011
 Member of the Parliament of the Balearic Islands,Pilar Costa Serra,Q9059618,2011-06-07,2015-05-24,female,1967-05-18,,Pilar Costa 2019 (cropped).jpg,
 Member of the Parliament of the Balearic Islands,Pilar Costa Serra,Q9059618,2011-06-07,2019-05-26,female,1967-05-18,,Pilar Costa 2019 (cropped).jpg,
 Member of the Parliament of the Balearic Islands,Fernando Rubio Aguiló,Q20877023,2011-06-09,2015-03-31,male,1979-05-19,,,
-Member of the Parliament of the Balearic Islands,Antoni Camps Casasnovas,Q20877070,2011-06-09,2019-02-26,male,1970-07-25,,,
 Member of the Parliament of the Balearic Islands,Eulalia Esperanza Llufriu Esteva,Q20877072,2011-06-09,2015-03-31,female,1964-01-21,,,
-Member of the Parliament of the Balearic Islands,María Asunción Pons Fullana,Q20877080,2011-06-09,2015-03-31,female,1965-08-23,,,
 Member of the Parliament of the Balearic Islands,Cosme Bonet Bonet,Q17028914,2011-06-21,2015-03-31,male,1974-01-16,,,
 Member of the Parliament of the Balearic Islands,Carlos Luis Veramendi Mestre,Q20876943,2011-06-21,2015-03-31,male,1963-05-13,,,
 Member of the Parliament of the Balearic Islands,Aina Maria Aguiló Garcías,Q20876928,2011-06-27,2015-03-31,female,1971-01-10,,,
@@ -6724,8 +6727,11 @@ Member of the Parliament of the Balearic Islands,Joana Aina Campomar Orell,Q2100
 Member of the Parliament of the Balearic Islands,Jaume Garau Salas,Q11927284,2015-07-09,2019-04-02,male,1953,,,
 Member of the Parliament of the Balearic Islands,Maria Concepció Obrador Guzmán,Q20877001,2015-07-09,2019-04-02,female,1956-03-24,,,
 Member of the Parliament of the Balearic Islands,Margarita Isabel Cabrer González,Q11935399,2016-11-22,2019-04-02,female,1969-05-09,,Mabel Cabrer.jpg,
+Member of the Parliament of the Balearic Islands,María Asunción Pons Fullana,Q20877080,2019-03-05,,female,1965-08-23,,,
+Member of the Parliament of the Balearic Islands,María Asunción Pons Fullana,Q20877080,2019-03-05,2019-05-26,female,1965-08-23,,,
 Member of the Parliament of the Balearic Islands,Xavier Pericay,Q9096568,2019-06-04,2019-04-02,male,1956,,Xavier Pericay.jpg,
 Member of the Parliament of the Balearic Islands,Josefina Santiago Rodríguez,Q11928411,2019-06-20,2019-07-04,female,1961-09-27,,Fina Santiago Rodríguez.jpg,
+Member of the Parliament of the Balearic Islands,Marc Pons Pons,Q9028503,2019-06-20,2019-07-05,male,1973-03-21,,Marc Pons i Pons.jpg,
 Member of the Basque Parliament,Txomin Aurrekoetxea,Q12268410,1984,2001,male,1943,,,
 Member of the Basque Parliament,Enriqueta Benito,Q58214834,1990,2005,female,1960-03-06,,,
 Member of the Basque Parliament,Patxi López,Q465161,1991-03-15,2014-09-19,male,1959-10-04,,El lehendakari Patxi López (4 de mayo de 2010).jpg,Patxi López
@@ -7316,7 +7322,7 @@ Member of the Basque Parliament,Yahcov Ruiz Chico,Q106544506,2019-11-26,2020-08-
 Member of the Basque Parliament,Eraitz Saez de Egilaz,Q97145256,2020,,female,1996-11-06,,Eraitz-Saez-de-Egilaz-Ramos.png,
 Member of the Basque Parliament,David Soto,Q97149728,2020,,male,1990-06-07,,,
 Member of the Basque Parliament,Asunción Guerra Alonso,Q106544510,2020-02-05,2020-02-11,female,1960-04-07,,,
-Member of the Basque Parliament,Amaia Martinez Grisalena,Q97309771,2020-07-12,,female,1968,,,Amaia Martinez Grisalena
+Member of the Basque Parliament,Amaia Martinez Grisalena,Q97309771,2020-07-12,,female,1968,,,Amaia Martínez Grisaleña
 Member of the Basque Parliament,José Manuel Gil Vegas,Q97322285,2020-07-12,,male,1959,,,
 Member of the Basque Parliament,Maria Garde Ramirez,Q97624254,2020-07-12,,female,,,Maria-Garde.png,
 Member of the Basque Parliament,Itxaso Etxebarria Astondoa,Q97624813,2020-07-12,,female,1973-03-01,,Itxaso Etxebarria.jpg,
@@ -7382,7 +7388,7 @@ Member of the Basque Parliament,Unai Fernandez de Betoño Saenz de Lacuesta,Q904
 Member of the Basque Parliament,Laura Pérez Borinaga,Q95688115,2020-08-03,,female,1971-06-18,,"Laura Pérez Borinaga, alcaldesa de Labastida (cropped).jpg",
 Member of the Basque Parliament,Eraitz Saez de Egilaz,Q97145256,2020-08-03,,female,1996-11-06,,Eraitz-Saez-de-Egilaz-Ramos.png,
 Member of the Basque Parliament,David Soto,Q97149728,2020-08-03,,male,1990-06-07,,,
-Member of the Basque Parliament,Amaia Martinez Grisalena,Q97309771,2020-08-03,,female,1968,,,Amaia Martinez Grisalena
+Member of the Basque Parliament,Amaia Martinez Grisalena,Q97309771,2020-08-03,,female,1968,,,Amaia Martínez Grisaleña
 Member of the Basque Parliament,Mikel Otero Gabirondo,Q97317258,2020-08-03,,male,1972-08-17,,Mikel Otero.jpg,
 Member of the Basque Parliament,José Manuel Gil Vegas,Q97322285,2020-08-03,,male,1959,,,
 Member of the Basque Parliament,José Antonio Suso,Q97326993,2020-08-03,,male,1956-06-14,,Jose Antonio Suso.jpg,
