@@ -117,7 +117,7 @@ Q16189675,Antoni Comín i Oliveres,father,Q1748144,Alfonso Carlos Comín
 Q16189675,Antoni Comín i Oliveres,sibling,Q63352548,Betona Comín i Oliveres
 Q16297359,Cayetana Álvarez de Toledo,spouse,Q73230875,Joaquín Güell Ampuero
 Q16570401,Gabriel Ferrán de Alfaro,child,Q60745792,Gabriel Ferrán Carrión
-Q16651619,Álvaro Lapuerta,father,Q84710774,José María de Lapuerta y de Las Pozas
+Q16651619,Álvaro Lapuerta,father,Q84710774,José María de Lapuerta y de las Pozas
 Q17032438,Marina Llansana i Rosich,partner,Q20101853,Oriol Soler i Castanys
 Q17033177,Marta Pascal i Capdevila,spouse,Q55702016,Joaquim Bohils
 Q17036721,Josep Rull i Andreu,partner,Q59343390,Meritxell Lluís i Vall
@@ -188,7 +188,7 @@ Q2065232,Raül Romeva,spouse,Q55714607,Diana Riba Giner
 Q20758196,Mireia Boya Busquet,mother,Q11935469,Maria Pilar Busquet i Medan
 Q20758196,Mireia Boya Busquet,sibling,Q19300753,Jusèp Boya i Busquet
 Q2083681,Esperanza Aguirre,child,Q5444889,Fernando Ramírez de Haro
-Q2083681,Esperanza Aguirre,relative,Q440610,Ouka Lele
+Q2083681,Esperanza Aguirre,relative,Q440610,Ouka Leele
 Q2083681,Esperanza Aguirre,relative,Q5940069,José Gil de Biedma
 Q2083681,Esperanza Aguirre,relative,Q8240605,Baldomero Vega de Seoane y Andrea Pérez
 Q2083681,Esperanza Aguirre,relative,Q978013,Jaime Gil de Biedma
@@ -515,7 +515,10 @@ Q5866146,Francisco Javier Elorza,child,Q5866149,Francisco Javier Elorza y Echán
 Q5873315,Gabriel Elorriaga Pisarik,father,Q3395509,Gabriel Elorriaga Fernández
 Q5873315,Gabriel Elorriaga Pisarik,sibling,Q5724133,Beatriz Elorriaga Pisarik
 Q5889949,Gustavo de Arístegui,father,Q6069435,Pedro Manuel de Arístegui y Petit
-Q5934104,Jone Goirizelaia Ordorika,sibling,Q12260048,Iñaki Goirizelaia
+Q5934104,Jone Goirizelaia,child,Q112153323,Ibon Altuna
+Q5934104,Jone Goirizelaia,mother,Q112153324,Pilar Ordorika
+Q5934104,Jone Goirizelaia,relative,Q2425000,Ruper Ordorika
+Q5934104,Jone Goirizelaia,sibling,Q12260048,Iñaki Goirizelaia
 Q5944571,José Pedro Sebastían de Erice,father,Q20018184,José Sebastián de Erice y O'Shea
 Q5947313,Juan Antonio Gómez-Angulo,child,Q55741773,Paula Gómez-Angulo Amorós
 Q59609771,Rocío Monasterio,relative,Q16299033,Carlos Espinosa de los Monteros y Bernaldo de Quirós
