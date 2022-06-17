@@ -1,5 +1,4 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q94534590,Q94534590,,,,,,,,,,,,,,,,
 ,Q3477032,2nd Government under the restored Monarchy of Spain,1976-07-08,11,,,1977-07-05,11,,,Q3401713,Q3401713,Q2625009,Government of the Constituent Legislature of Spain,,,,
 ,Q2625009,Government of the Constituent Legislature of Spain,1977-07-05,11,1977-01-01,9,1979-04-06,11,1979-04-06,11,Q3477032,2nd Government under the restored Monarchy of Spain,Q2704261,Government of the 1st Legislature of Spain,,,,
 ,Q2704261,Government of the 1st Legislature of Spain,1979-04-06,11,1979-04-06,11,1981-02-27,11,1981-02-27,11,Q2625009,Government of the Constituent Legislature of Spain,Q27440988,Calvo-Sotelo Cabinet,,,,
@@ -8,6 +7,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q2303361,Government of the 2nd Legislature of Spain,1982-12-03,11,,,1986-07-26,11,,,Q27440988,Calvo-Sotelo Cabinet,Q2145807,González II Government,,,Q2145807,González II Government
 ,Q2145807,González II Government,1986-07-26,11,,,1989-12-07,11,,,Q2303361,Government of the 2nd Legislature of Spain,Q2303383,González III Government,Q2303361,Government of the 2nd Legislature of Spain,,
 ,Q2303383,González III Government,1989-12-07,11,,,1993-07-14,11,,,Q2145807,González II Government,Q2551406,Government of the 5th Legislature of Spain,,,,
+,Q94534590,Q94534590,1991-07-08,11,,,1995-07-10,11,,,,,,,,,,
 ,Q2551406,Government of the 5th Legislature of Spain,1993-07-14,11,1993-01-01,9,1996-05-06,11,1996-01-01,9,Q2303383,González III Government,Q921002,Government of the 6th Legislature of Spain,,,,
 ,Q921002,Government of the 6th Legislature of Spain,1996-05-06,11,1996-01-01,9,2000-04-28,11,2000-01-01,9,Q2551406,Government of the 5th Legislature of Spain,Q2551849,Government of the 7th Legislature of Spain,,,,
 ,Q2551849,Government of the 7th Legislature of Spain,2000-04-28,11,2000-04-28,11,2004-04-18,11,2004-04-18,11,Q921002,Government of the 6th Legislature of Spain,Q912395,Government of the 8th Legislature of Spain,,,,
