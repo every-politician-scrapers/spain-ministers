@@ -1,10 +1,9 @@
 @@,itemlabel,item,startdate,enddate
-->,Gonzalo Puigcerver Romá,Q24280194,1986-01-01->1986-10-31,1990-01-01->1990-05-18
-->,Gonzalo Rodríguez Martín-Granizo,Q26215638,1990-01-01->1990-05-18,1992-01-01->1992-12-16
-->,José Rodrigo Rodrigo,Q27495887,1992-12-23,1996-07-26->1996-03-04
-+++,José Rodrigo Rodrigo,Q27495887,1996-05-04,1996-07-26
-->,Santiago Valderas Cañestro,Q60646145,1996-07-26,2000-12-15->1999-05-21
-+++,Santiago Valderas Cañestro,Q60646145,1999-05-21,2000-12-15
+---,Ángel Liberal Lucini,Q20899917,1984-01-11,1986-10-31
+---,Gonzalo Puigcerver Romá,Q24280194,1986-01-01,1990-01-01
+---,Gonzalo Rodríguez Martín-Granizo,Q26215638,1990-01-01,1992-01-01
+---,José Rodrigo Rodrigo,Q27495887,1992-12-23,1996-07-26
+->,Santiago Valderas Cañestro,Q60646145,1996-07-26->1999-05-21,2000-12-15
 ->,Antonio Moreno Barberá,Q60647131,2000-12-15,2004-06-25->2004-03-15
 +++,Antonio Moreno Barberá,Q60647131,2004-04-17,2004-06-25
 ->,Félix Sanz Roldán,Q8963212,2004-06-26->2004-06-25,2008-07-19->2008-07-18
