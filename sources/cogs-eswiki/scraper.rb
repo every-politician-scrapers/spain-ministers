@@ -33,10 +33,6 @@ class OfficeholderList < OfficeholderListBase
     def raw_end
       super.gsub('†', '').gsub('en el cargo', '')
     end
-
-    def tds
-      noko.css('td,th')
-    end
   end
 end
 

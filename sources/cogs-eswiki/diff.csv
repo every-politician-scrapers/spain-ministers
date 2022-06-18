@@ -1,16 +1,11 @@
-@@,itemlabel,item,startdate,enddate
-->,Gonzalo Puigcerver Romá,Q24280194,1986-01-01->1986-10-31,1990-01-01->1990-05-18
-->,Gonzalo Rodríguez Martín-Granizo,Q26215638,1990-01-01->1990-05-18,1992-01-01->1992-12-16
-->,José Rodrigo Rodrigo,Q27495887,1992-12-23,1996-07-26->1996-03-04
-+++,José Rodrigo Rodrigo,Q27495887,1996-05-04,1996-07-26
-->,Santiago Valderas Cañestro,Q60646145,1996-07-26,2000-12-15->1999-05-21
-+++,Santiago Valderas Cañestro,Q60646145,1999-05-21,2000-12-15
-->,Antonio Moreno Barberá,Q60647131,2000-12-15,2004-06-25->2004-03-15
-+++,Antonio Moreno Barberá,Q60647131,2004-04-17,2004-06-25
-->,Félix Sanz Roldán,Q8963212,2004-06-26->2004-06-25,2008-07-19->2008-07-18
-->,José Julio Rodríguez Fernández,Q3125146,2008-07-18,2011-12-30->2011-11-21
-+++,José Julio Rodríguez Fernández,Q3125146,2011-12-20,2011-12-30
-->,Fernando García Sánchez,Q5859605,2011-12-30,2017-03-24->2014-06-19
-+++,Fernando García Sánchez,Q5859605,2014-06-19,2017-03-24
-->,Fernando Alejandre Martínez,Q29018615,2017-03-24,2020-01-15->2018-06-01
-+++,Fernando Alejandre Martínez,Q29018615,2018-06-01,2020-01-15
+@@,item,itemlabel,startdate,enddate
+->,Q60646145,Santiago Valderas Cañestro,1996-07-26->1999-05-21,2000-12-15
+->,Q60647131,Antonio Moreno Barberá,2000-12-15,2004-06-25->2004-03-15
++++,Q60647131,Antonio Moreno Barberá,2004-04-17,2004-06-25
+->,Q8963212,Félix Sanz Roldán,2004-06-26->2004-06-25,2008-07-19->2008-07-18
+->,Q3125146,José Julio Rodríguez Fernández,2008-07-18,2011-12-30->2011-11-21
++++,Q3125146,José Julio Rodríguez Fernández,2011-12-20,2011-12-30
+->,Q5859605,Fernando García Sánchez,2011-12-30,2017-03-24->2014-06-19
++++,Q5859605,Fernando García Sánchez,2014-06-19,2017-03-24
+->,Q29018615,Fernando Alejandre Martínez,2017-03-24,2020-01-15->2018-06-01
++++,Q29018615,Fernando Alejandre Martínez,2018-06-01,2020-01-15
