@@ -11,16 +11,24 @@ class MemberList
     end
 
     def position
-      noko.xpath('text()').first.text.tidy
+      noko.css('.subTitle-advanced-news').first.text.tidy
           .gsub(/,\s*$/, '')
           .split(/ and (?=Minister|Government)/)
           .map(&:tidy)
+    end
+
+    def empty?
+      name == 'Government'
     end
   end
 
   class Members
     def member_container
-      noko.css('#MainContent ul li')
+      noko.css('ul.container-advanced-news li')
+    end
+
+    def member_items
+      super.reject(&:empty?)
     end
   end
 end
