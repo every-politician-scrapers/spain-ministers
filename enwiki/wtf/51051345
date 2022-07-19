@@ -1,0 +1,274 @@
+{
+  "title": "José Ignacio Ceniceros",
+  "pageID": 51051345,
+  "categories": [
+    "1956 births",
+    "Presidents of La Rioja (Spain)",
+    "Presidents of the Parliament of La Rioja (Spain)",
+    "People's Party (Spain) politicians",
+    "Living people",
+    "Politicians from La Rioja",
+    "Spanish municipal councillors",
+    "Members of the 4th Parliament of La Rioja (Spain)",
+    "Members of the 5th Parliament of La Rioja (Spain)",
+    "Members of the 6th Parliament of La Rioja (Spain)",
+    "Members of the 7th Parliament of La Rioja (Spain)",
+    "Members of the 8th Parliament of La Rioja (Spain)",
+    "Members of the 9th Parliament of La Rioja (Spain)",
+    "Members of the 10th Parliament of La Rioja (Spain)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "José Ignacio Ceniceros González (born 11 May 1956) is a Spanish politician and member of the People's Party (PP).",
+              "links": [
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "People's Party",
+                  "type": "internal",
+                  "page": "People's Party (Spain)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "José Ignacio Ceniceros González"
+                ]
+              }
+            },
+            {
+              "text": "Ceniceros, who previously held the position of President of the Parliament of La Rioja from 1999 to 2015, served as the President of La Rioja from 2015 to 2019.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "List of Presidents of the Parliament of La Rioja"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliament of La Rioja"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of La Rioja"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ceniceros' People's Party (PP) had retained a slim majority in the 2015 Riojan regional election on 24 May 2015, but lost five seats.",
+              "links": [
+                {
+                  "text": "2015 Riojan regional election",
+                  "type": "internal",
+                  "page": "2015 Riojan regional election"
+                }
+              ]
+            },
+            {
+              "text": "Ceniceros listed the creation of higher quality jobs for Riojans as his top priority during his tenure as president."
+            },
+            {
+              "text": "In the 2019 Riojan regional election, PP lost three seats and the position as the largest party in the Parliament of La Rioja.",
+              "links": [
+                {
+                  "text": "2019 Riojan regional election",
+                  "type": "internal",
+                  "page": "2019 Riojan regional election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliament of La Rioja"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Spanish politician",
+          "template": "short description"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "1956",
+            "month": "5",
+            "date": "11",
+            "df": "y",
+            "template": "birth date",
+            "text": "May 11, 1956"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "José Ignacio Ceniceros"
+          },
+          "image": {
+            "text": "(José Ignacio Ceniceros) Isabel Díaz Ayuso y Jose Luis Martínez Almeida acompañan a Pablo Casado, Presidente del Partido Popular en su visita a FITUR 2019 (46135966554) (cropped).jpg"
+          },
+          "office": {
+            "text": "President of La Rioja",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of La Rioja"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 July 2015"
+          },
+          "term_end": {
+            "text": "29 August 2019"
+          },
+          "predecessor": {
+            "text": "Pedro Sanz Alonso",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pedro Sanz Alonso"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Concha Andreu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Concha Andreu"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Mayor of Villoslada de Cameros",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Villoslada de Cameros"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "13 June 2015"
+          },
+          "term_end2": {
+            "text": "2 July 2015"
+          },
+          "predecessor2": {
+            "text": "Miguel García"
+          },
+          "successor2": {
+            "text": "Julio Elías"
+          },
+          "office3": {
+            "text": "President of the Parliament of La Rioja",
+            "links": [
+              {
+                "text": "President of the Parliament of La Rioja",
+                "type": "internal",
+                "page": "List of Presidents of the Parliament of La Rioja"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "5 July 1999"
+          },
+          "term_end3": {
+            "text": "18 June 2015"
+          },
+          "predecessor3": {
+            "text": "María del Carmen Las Heras Pérez-Caballero",
+            "links": [
+              {
+                "type": "internal",
+                "page": "María del Carmen Las Heras Pérez-Caballero"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Ana Lourdes González",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ana Lourdes González"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "José Ignacio Ceniceros González"
+          },
+          "birth_date": {
+            "text": "May 11, 1956"
+          },
+          "birth_place": {
+            "text": "Villoslada de Cameros, Spain",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Villoslada de Cameros"
+              },
+              {
+                "type": "internal",
+                "page": "Spain"
+              }
+            ]
+          },
+          "party": {
+            "text": "People's Party (PP)",
+            "links": [
+              {
+                "text": "People's Party",
+                "type": "internal",
+                "page": "People's Party (Spain)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Interview: Jose Ignacio Ceniceros, president of the regional government of La Rioja",
+          "url": "https://www.theguardian.com/the-report-company/2016/mar/02/interview-jose-ignacio-ceniceros-president-of-the-regional-government-of-la-rioja",
+          "work": "The Report Company (The Guardian)",
+          "date": "2016-03-02",
+          "access-date": "2016-07-11",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "spain-mayor-stub"
+        },
+        {
+          "template": "lariojaes-politician-stub"
+        }
+      ]
+    }
+  ]
+}

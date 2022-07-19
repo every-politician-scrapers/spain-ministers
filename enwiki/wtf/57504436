@@ -1,0 +1,821 @@
+{
+  "title": "Irene Montero",
+  "pageID": 57504436,
+  "categories": [
+    "1988 births",
+    "Autonomous University of Madrid alumni",
+    "Living people",
+    "Members of the 12th Congress of Deputies (Spain)",
+    "Members of the 11th Congress of Deputies (Spain)",
+    "Members of the 13th Congress of Deputies (Spain)",
+    "Women members of the Congress of Deputies (Spain)",
+    "Members of the 14th Congress of Deputies (Spain)",
+    "Transgender rights activists",
+    "LGBT rights activists from Spain",
+    "Spanish women activists"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Irene María Montero Gil (born 13 February 1988), MP is a Spanish politician and psychologist, member of the Podemos party.",
+              "links": [
+                {
+                  "text": "MP",
+                  "type": "internal",
+                  "page": "Congress of Deputies (Spain)"
+                },
+                {
+                  "text": "Podemos",
+                  "type": "internal",
+                  "page": "Podemos (Spanish political party)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Irene María Montero Gil"
+                ]
+              }
+            },
+            {
+              "text": "She currently serves as the Minister of Equality of Spain since 13 January 2020.",
+              "links": [
+                {
+                  "text": "Minister of Equality",
+                  "type": "internal",
+                  "page": "Ministry of Equality (Spain)"
+                }
+              ]
+            },
+            {
+              "text": "She is the partner of Pablo Iglesias, the founder and former leader of her party.",
+              "links": [
+                {
+                  "text": "Pablo Iglesias",
+                  "type": "internal",
+                  "page": "Pablo Iglesias Turrión"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since January 2016, Montero has also been an MP for Madrid in the Congress of Deputies, and from February 2017 to January 2020 she was the Spokesperson for the Parliamentary Group Unidos Podemos-En Comú Podem-Galicia en Común in Congress.",
+              "links": [
+                {
+                  "text": "Madrid",
+                  "type": "internal",
+                  "page": "Madrid (Congress of Deputies constituency)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Congress of Deputies"
+                },
+                {
+                  "text": "Spokesperson",
+                  "type": "internal",
+                  "page": "Board of Spokespersons"
+                },
+                {
+                  "text": "Parliamentary Group Unidos Podemos-En Comú Podem-Galicia en Común",
+                  "type": "internal",
+                  "page": "Parliamentary group (Spain)",
+                  "anchor": "Congress of Deputies"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Spanish politician and psychologist",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Montero",
+            "Gil"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1988",
+          "month": "2",
+          "day": "13",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "m": "1.63",
+          "template": "height"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Irene Montero"
+          },
+          "honorific-prefix": {
+            "text": "The Most Excellent",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Most Excellent"
+              }
+            ]
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Congress of Deputies (Spain)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Irene Montero 2020 (portrait).jpg"
+          },
+          "office": {
+            "text": "Minister of Equality",
+            "links": [
+              {
+                "text": "Minister of Equality",
+                "type": "internal",
+                "page": "Ministry of Equality (Spain)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 January 2020"
+          },
+          "monarch": {
+            "text": "Felipe VI",
+            "links": [
+              {
+                "text": "Felipe VI",
+                "type": "internal",
+                "page": "Felipe VI of Spain"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Pedro Sánchez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pedro Sánchez"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Carmen Calvo (Presidency, Relations with the Cortes and Equality)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carmen Calvo"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the Congress of Deputies",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Congress of Deputies"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "13 January 2016"
+          },
+          "constituency1": {
+            "text": "Madrid",
+            "links": [
+              {
+                "text": "Madrid",
+                "type": "internal",
+                "page": "Madrid (Congress of Deputies constituency)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 13, 1988"
+          },
+          "birth_place": {
+            "text": "Madrid, Spain",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Madrid"
+              },
+              {
+                "type": "internal",
+                "page": "Spain"
+              }
+            ]
+          },
+          "height": {
+            "text": "1.63m"
+          },
+          "party": {
+            "text": "Podemos (2014–present)",
+            "links": [
+              {
+                "text": "Podemos",
+                "type": "internal",
+                "page": "Podemos (Spanish political party)"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Communist Youth Union of Spain (2004–?)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Communist Youth Union of Spain"
+              }
+            ]
+          },
+          "partner": {
+            "text": "Pablo Iglesias Turrión",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pablo Iglesias Turrión"
+              }
+            ]
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "Autonomous University of Madrid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Autonomous University of Madrid"
+              }
+            ]
+          },
+          "signature": {
+            "text": "Firma de Irene Montero.svg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Montero was born in the Moratalaz neighborhood of Madrid.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Moratalaz"
+                }
+              ]
+            },
+            {
+              "text": "She joined the Communist Youth Union of Spain (UJCE) at age 16.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Communist Youth Union of Spain"
+                }
+              ]
+            },
+            {
+              "text": "She has a bachelor's degree in psychology from the Autonomous University of Madrid, and a master's degree in Educational Psychology.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Autonomous University of Madrid"
+                }
+              ]
+            },
+            {
+              "text": "She received a scholarship for Harvard University, but chose to commit herself to politics instead of moving to the United States.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Harvard University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Velasco",
+          "first1": "Lourdes",
+          "title": "Irene Montero: una 'portavoza' para pilotar la Igualdad desde el feminismo",
+          "url": "https://www.efe.com/efe/espana/portada/irene-montero-una-portavoza-para-pilotar-la-igualdad-desde-el-feminismo/10010-4146396",
+          "access-date": "2 December 2021",
+          "publisher": "EFE",
+          "date": "9 January 2020",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Casanova",
+          "first1": "J.",
+          "title": "Irene Montero, la activista que cambió Harvard por Podemos",
+          "url": "https://www.lavozdegalicia.es/noticia/espana/2020/01/11/activista-cambio-harvard-podemos/0003_202001G11P7993.htm",
+          "access-date": "2 December 2021",
+          "work": "La Voz de Galicia",
+          "date": "10 January 2020",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0
+    },
+    {
+      "title": "Early beginnings",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Montero joined Podemos after the elections to the European Parliament in 2014 together with Rafa Mayoral from the Platform of People Affected by Mortgages (PAH).",
+              "links": [
+                {
+                  "text": "Podemos",
+                  "type": "internal",
+                  "page": "Podemos (Spanish political party)"
+                },
+                {
+                  "text": "elections to the European Parliament",
+                  "type": "internal",
+                  "page": "2014 European Parliament election (Spain)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rafa Mayoral"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In November 2014, after being a candidate for the Citizen Council of Podemos, Montero was appointed head of Social Movements and began to lead the cabinet of the leader of Podemos, Pablo Iglesias, at which time she postponed her doctoral thesis project on new methods of educational inclusion to dedicate herself entirely to Podemos.",
+              "links": [
+                {
+                  "text": "Pablo Iglesias",
+                  "type": "internal",
+                  "page": "Pablo Iglesias Turrión"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Podemos nombra a Irene Montero nueva portavoz en el Congreso, en sustitución de Errejón",
+          "url": "http://www.europapress.es/nacional/noticia-irene-montero-sera-nombrada-nueva-portavoz-podemos-congreso-sustitucion-inigo-errejon-20170218092559.html",
+          "date": "18 February 2017",
+          "access-date": "16 June 2017",
+          "newspaper": "Europa Press",
+          "language": "es",
+          "location": "Madrid",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Member of Parliament, 2016–present",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Montero was a candidate for Madrid to the Congress of Deputies for Podemos in the elections of 20 December 2015, being elected deputy of the XI and the XII Legislature."
+            },
+            {
+              "text": "Since 18 February 2017 she has held the position of Spokesperson of the United Confederal Group We Can-In Comú Podem-En Marea, being the youngest speaker of democracy.",
+              "links": [
+                {
+                  "text": "Spokesperson",
+                  "type": "internal",
+                  "page": "Board of Spokespersons"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During the election campaign of 20 December 2015 Iglesias announced that Montero would be the vice president and minister of the Presidency of a hypothetical government of Podemos."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the elections of the Congress of Vistalegre II to the direction of Podemos was elected member of the State Citizen Council."
+            },
+            {
+              "text": "She was the most voted woman, placing herself in fourth place, behind Pablo Iglesias, Pablo Echenique and Íñigo Errejón.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pablo Echenique"
+                },
+                {
+                  "text": "Íñigo Errejón",
+                  "type": "internal",
+                  "page": "Íñigo Errejón"
+                }
+              ]
+            },
+            {
+              "text": "She is currently a member of the Coordination Board of Podemos, secretary of Action in Congress."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As a deputy, in June 2017 Montero became the first woman in the history of Spain to intervene in parliament on a motion of no confidence."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2018, Iglesias and Montero put their positions in Podemos up for a vote of no confidence, following backlash for purchasing a €615,000 country house in Galapagar.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Galapagar"
+                }
+              ]
+            },
+            {
+              "text": "A total of 68.42% of party members voted to keep them in their roles."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Fallarás",
+          "first": "Cristina",
+          "title": "Anatomía de foto con mujer que no aplaude",
+          "url": "http://ctxt.es/es/20170307/Politica/11547/Nueva-politica-irene-montero-foto-visita-macri.htm",
+          "access-date": "8 May 2017",
+          "magazine": "Revista Contexto",
+          "language": "es",
+          "date": "11 March 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Irene Montero, en la cresta de la ola política",
+          "url": "http://www.elmundo.es/loc/2017/02/18/58a719c6e2704e581c8b458a.html",
+          "access-date": "8 May 2017",
+          "newspaper": "El Mundo",
+          "language": "es",
+          "first": "Cote",
+          "last": "Villar",
+          "date": "14 May 2018",
+          "publisher": "Unidad Editorial Información General, S.L.U.",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Pablo Iglesias derrota a Íñigo Errejón por una mayoría aplastante en Vistalegre II",
+          "url": "http://www.elconfidencial.com/espana/2017-02-12/asamblea-podemos-vistalegre-resultados-votacion-secretario-general-iglesias-errejon_1330231/",
+          "access-date": "8 May 2017",
+          "newspaper": "El Confidencial",
+          "language": "es",
+          "first": "Iván",
+          "last": "Gil",
+          "date": "12 February 2017",
+          "publisher": "Titania Compañía Editorial, S.L.",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Estos son los resultados de Vistalegre II",
+          "url": "http://www.elmundo.es/espana/2017/02/12/58a0540aca4741464d8b463c.html",
+          "access-date": "8 May 2017",
+          "newspaper": "El Mundo",
+          "language": "es",
+          "date": "12 February 2017",
+          "publisher": "Unidad Editorial",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Irene Montero, la primera mujer en la historia de España que parlamenta en una moción de censura",
+          "url": "http://www.publico.es/politica/mocion-censura-mariano-rajoy-irene.html",
+          "access-date": "16 June 2017",
+          "language": "es",
+          "date": "13 June 2017",
+          "newspaper": "Público",
+          "publisher": "Display Connectors, S.L.",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Marcos",
+          "first1": "José",
+          "title": "Podemos leaders win confidence vote over country house scandal",
+          "url": "https://english.elpais.com/elpais/2018/05/28/inenglish/1527492924_821506.html",
+          "access-date": "2 December 2021",
+          "work": "El País",
+          "date": "28 May 2018",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Minister of Equality, 2020–present",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In January 2020, prime minister Pedro Sánchez appointed Montero as Minister of Equality.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pedro Sánchez"
+                },
+                {
+                  "text": "Minister of Equality",
+                  "type": "internal",
+                  "page": "Ministry of Equality (Spain)"
+                }
+              ]
+            },
+            {
+              "text": "During her time in office, she oversaw the government's efforts on a bill to allow anyone over the age of 14 to change gender legally without a medical diagnosis or hormone therapy."
+            },
+            {
+              "text": "She debated the ramifications of the bill with Deputy Prime Minister Carmen Calvo, who opposed it.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Carmen Calvo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Montero responde a Calvo: \"La identidad de género no es un capricho\"",
+          "url": "https://www.elperiodico.com/es/sociedad/20210206/montero-responde-calvo-identidad-genero-ley-trans-11501695",
+          "access-date": "2 December 2021",
+          "work": "El Periódico de Catalunya",
+          "date": "6 February 2021",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Irene Montero admite diferencias con Carmen Calvo por la Ley Trans",
+          "url": "https://www.lavozdegalicia.es/noticia/sociedad/2021/01/28/irene-montero-admite-diferencias-carmen-calvo-ley-trans/00031611827873773598640.htm",
+          "access-date": "2 December 2021",
+          "work": "La Voz de Galicia",
+          "date": "8 March 2021",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 3 July 2018 Montero gave birth to twins, Leo and Manuel, in her relationship with Pablo Iglesias, the leader of her party."
+            },
+            {
+              "text": "Because of their premature birth, the newborn children were kept in the intensive care at a public hospital of Madrid.",
+              "links": [
+                {
+                  "text": "premature birth",
+                  "type": "internal",
+                  "page": "premature birth"
+                },
+                {
+                  "text": "intensive care",
+                  "type": "internal",
+                  "page": "intensive care"
+                }
+              ]
+            },
+            {
+              "text": "On 4 August 2019 she gave birth to their third child, Aitana."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 12 March 2020, it was reported that Montero had been infected by SARS-CoV-2, the virus that causes coronavirus disease 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "SARS-CoV-2"
+                },
+                {
+                  "text": "coronavirus disease 2019",
+                  "type": "internal",
+                  "page": "coronavirus disease 2019"
+                }
+              ]
+            },
+            {
+              "text": "She was reported to be in quarantine together with her domestic partner, Second Deputy Prime Minister of Spain Pablo Iglesias, while all members of the Spanish government were to be tested for the virus.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Second Deputy Prime Minister of Spain"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.elmundo.es/loc/famosos/2018/07/03/5b3b4429e5fdea9f2f8b45d0.html",
+          "title": "Irene Montero da a luz a sus mellizos de manera prematura, con seis meses de gestación",
+          "access-date": "13 March 2019",
+          "date": "3 July 2018",
+          "newspaper": "El Mundo",
+          "language": "es",
+          "author": "Europa Press",
+          "author-link": "Europa Press (news agency)",
+          "publisher": "Unidad Editorial",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://elpais.com/elpais/2019/08/02/gente/1564777713_879385.html",
+          "title": "Irene Montero da a luz a su tercer hijo, una niña que se llama Aitana",
+          "date": "4 August 2019",
+          "access-date": "10 January 2020",
+          "newspaper": "El País",
+          "language": "es",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Kuner",
+          "first1": "Dilip",
+          "title": "Spain's deputy PM Pablo Iglesias in quarantine after wife Irene Montero tests positive for coronavirus",
+          "url": "https://www.theolivepress.es/spain-news/2020/03/12/spains-deputy-pm-pablo-iglesias-in-quarantine-after-wife-irene-montero-tests-positive-for-coronavirus/",
+          "accessdate": "12 March 2020",
+          "publisher": "The Olive Press",
+          "date": "12 March 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Controversy",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "According to the Official State Gazette of March 26, 2021, Irene Montero went from having 6.823 euros to having 629.969 euros in 5 years and since she started her political career."
+            },
+            {
+              "text": "In consequence deputy Pablo Cambronero asked the Spanish Government if they were going to investigate such a suspicious increment of wealth as it went up more than 100 times since she started her political career."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "However, this information has been disputed by her peers who allegue that the money comes from the inheritance of her deceased father."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.abc.es/espana/abci-diputado-cambronero-pide-gobierno-investigar-como-irene-montero-pasado-tener-6823-euros-629969-5-anos-202201041403_noticia.html",
+          "title": "El diputado Cambronero pide al Gobierno investigar cómo Irene Montero ha pasado de tener 6.823 euros a 629.969 en 5 años",
+          "date": "4 January 2022",
+          "access-date": "4 January 2022",
+          "newspaper": "El Mundo",
+          "language": "es",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.libertaddigital.com/espana/politica/2022-01-04/el-diputado-cambronero-pide-investigar-como-irene-montero-ha-multiplicado-por-cien-su-patrimonio-en-solo-cinco-anos-6852474/",
+          "title": "El diputado Cambronero pide investigar cómo Irene Montero ha multiplicado por cien su patrimonio en solo cinco años",
+          "date": "4 January 2022",
+          "access-date": "4 January 2022",
+          "newspaper": "Libertad Digital",
+          "language": "es",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.larazon.es/espana/20220104/vvxz4co4bnh3pjluxfm7tjmviq.html",
+          "title": "¿Cómo ha logrado Irene Montero pasar de 6.823 euros de patrimonio a 629.969 en solo cinco años?",
+          "date": "4 January 2022",
+          "access-date": "4 January 2022",
+          "newspaper": "La Razón",
+          "language": "es",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.lavozdegalicia.es/noticia/espana/2022/01/04/diputado-grupo-mixtopide-gobierno-investigar-irene-montero-pasado-tener-6823-euros-629969-cinco-anos/00031641295106283144656.htm",
+          "title": "Un diputado del Grupo Mixto pide investigar cómo Irene Montero ha pasado de tener 6.823 euros a 629.969 en cinco años",
+          "date": "4 January 2022",
+          "access-date": "4 January 2022",
+          "newspaper": "La Voz de Galicia",
+          "language": "es",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "La lección de periodismo de Xabier Lapitz cuando escucha el bulo sobre Irene Montero en su programa",
+          "url": "https://www.publico.es/tremending/2022/01/05/la-leccion-de-periodismo-de-xabier-lapitz-cuando-escucha-el-bulo-sobre-irene-montero-en-su-programa/",
+          "access-date": "8 January 2022",
+          "agency": "Público",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "3"
+          ],
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "commons category"
+        },
+        {
+          "cc": "bysa3",
+          "url": "https://es.wikipedia.org/wiki/Irene_Montero",
+          "template": "cc-notice"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

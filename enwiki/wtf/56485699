@@ -1,0 +1,385 @@
+{
+  "title": "Francina Armengol",
+  "pageID": 56485699,
+  "categories": [
+    "1971 births",
+    "Living people",
+    "Presidents of the Balearic Islands",
+    "Members of the Parliament of the Balearic Islands",
+    "University of Barcelona alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Francesca Lluch Armengol i Socias, known as Francina Armengol (born 11 August 1971 in Inca), is a Spanish politician from the Socialist Party of the Balearic Islands.",
+              "links": [
+                {
+                  "text": "Inca",
+                  "type": "internal",
+                  "page": "Inca, Spain"
+                },
+                {
+                  "type": "internal",
+                  "page": "Socialist Party of the Balearic Islands"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Francesca Lluch Armengol i Socias",
+                  "Francina Armengol"
+                ]
+              }
+            },
+            {
+              "text": "She has been the President of the Balearic Islands since 2015, and also the first woman to ever hold the office.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of the Balearic Islands"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She tested positive for COVID-19 on 20 December 2021."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Spanish politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Armengol",
+            "Socias"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "date": "February 2018",
+          "list": [
+            "Francina Armengol"
+          ],
+          "template": "expand spanish"
+        },
+        {
+          "list": [
+            "Biel Barceló (2015–2017)",
+            "Bel Busquets (2017–2019)",
+            "Juan Pedro Yllanes (since 2019)"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "Antoni Pascual (2007–2010)",
+            "Antoni Alemany (2010–2011)"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "year": "1971",
+          "month": "8",
+          "day": "11",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Francina Armengol"
+          },
+          "image": {
+            "text": "Francina Armengol 2021.jpg"
+          },
+          "office": {
+            "text": "President of the Balearic Islands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the Balearic Islands"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Felipe VI",
+            "links": [
+              {
+                "text": "Felipe VI",
+                "type": "internal",
+                "page": "Felipe VI of Spain"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Biel Barceló (2015–2017)\n\nBel Busquets (2017–2019)\n\nJuan Pedro Yllanes (since 2019)"
+          },
+          "term_start": {
+            "text": "2 July 2015"
+          },
+          "predecessor": {
+            "text": "José Ramón Bauzà",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Ramón Bauzà"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Secretary-general of the Socialist Party of the Balearic Islands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Socialist Party of the Balearic Islands"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "26 February 2012"
+          },
+          "predecessor1": {
+            "text": "Francesc Antich",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Francesc Antich"
+              }
+            ]
+          },
+          "office2": {
+            "text": "President of the Island Council of Mallorca",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mallorca"
+              }
+            ]
+          },
+          "deputy2": {
+            "text": "Antoni Pascual (2007–2010)\n\nAntoni Alemany (2010–2011)"
+          },
+          "term_start2": {
+            "text": "7 July 2007"
+          },
+          "term_end2": {
+            "text": "25 June 2011"
+          },
+          "predecessor2": {
+            "text": "Maria Antònia Munar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maria Antònia Munar"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Maria Salom",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maria Salom"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the Parliament of the Balearic Islands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Parliament of the Balearic Islands"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "20 June 2019"
+          },
+          "constituency3": {
+            "text": "Mallorca",
+            "links": [
+              {
+                "text": "Mallorca",
+                "type": "internal",
+                "page": "Mallorca (Parliament of the Balearic Islands constituency)"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Francesca Lluch Armengol i Socias"
+          },
+          "birth_date": {
+            "text": "August 11, 1971"
+          },
+          "birth_place": {
+            "text": "Inca, Balearic Islands, Spain",
+            "links": [
+              {
+                "text": "Inca",
+                "type": "internal",
+                "page": "Inca, Spain"
+              },
+              {
+                "type": "internal",
+                "page": "Balearic Islands"
+              },
+              {
+                "type": "internal",
+                "page": "Spain"
+              }
+            ]
+          },
+          "party": {
+            "text": "Socialist Party of the Balearic Islands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Socialist Party of the Balearic Islands"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Barcelona",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Barcelona"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "17 June 2015",
+          "url": "http://www.diariodemallorca.es/mallorca/2015/06/17/perfil--armengol-presidenta/1032280.html",
+          "title": "Armengol, primera presidenta del Govern en la historia de Baleares",
+          "language": "Spanish",
+          "work": "Diario de Mallorca",
+          "location": "Palma",
+          "accessdate": "3 February 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Maria Antònia Munar",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the Island Council of Mallorca",
+          "years": "2007-2011",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Maria Salom",
+          "template": "s-aft"
+        },
+        {
+          "before": "José Ramón Bauzà",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the Balearic Islands",
+          "years": "2015-present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Francesc Antich",
+          "template": "s-bef"
+        },
+        {
+          "title": "Leader of the Socialist Group in the Parliament of the Balearic Islands",
+          "years": "2004-2007",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Antoni Diéguez",
+          "template": "s-aft"
+        },
+        {
+          "before": "Antoni Diéguez",
+          "template": "s-bef"
+        },
+        {
+          "title": "Leader of the Socialist Group in the Parliament of the Balearic Islands",
+          "years": "2011-2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Pilar Costa",
+          "template": "s-aft"
+        },
+        {
+          "before": "Francesc Antich",
+          "template": "s-bef"
+        },
+        {
+          "title": "Secretary-General of the Socialist Workers' Party of the Balearic Islands",
+          "years": "2012-present",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Incumbent",
+          "template": "s-aft"
+        },
+        {
+          "template": "spanish regional presidents"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "spanish regional presidents"
+        },
+        {
+          "template": "balearics-politician-stub"
+        }
+      ]
+    }
+  ]
+}

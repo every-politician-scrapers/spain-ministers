@@ -1,0 +1,540 @@
+{
+  "title": "Ximo Puig",
+  "pageID": 46758385,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "Presidents of the Valencian Government",
+    "Members of the 10th Congress of Deputies (Spain)",
+    "People from Els Ports",
+    "Socialist Party of the Valencian Country politicians",
+    "Spanish journalists",
+    "Male journalists",
+    "Mayors of places in the Valencian Community",
+    "Members of the 1st Corts Valencianes",
+    "Members of the 5th Corts Valencianes",
+    "Members of the 6th Corts Valencianes",
+    "Members of the 7th Corts Valencianes",
+    "Members of the 9th Corts Valencianes",
+    "Members of the 10th Corts Valencianes"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Joaquín Francisco Puig Ferrer, known as Ximo Puig (born 4 January 1959), is a Spanish politician who has served as leader of the Socialist Party of the Valencian Country (PSPV-PSOE), the Valencian regional branch of the PSOE, since March 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Socialist Party of the Valencian Country"
+                },
+                {
+                  "type": "internal",
+                  "page": "PSOE"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Joaquín Francisco Puig Ferrer",
+                  "Ximo Puig"
+                ]
+              }
+            },
+            {
+              "text": "He is the current President of the Valencian Government, leading the second Puig government",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of the Valencian Government"
+                },
+                {
+                  "text": "second Puig government",
+                  "type": "internal",
+                  "page": "second Puig government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "Spanish politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Puig",
+            "Ferrer"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1959",
+          "month": "01",
+          "day": "04",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "ˈtʃimo ˈputʃ",
+            "lang"
+          ],
+          "template": "ipa-va"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ximo Puig"
+          },
+          "honorific-prefix": {
+            "text": "The Right Honourable",
+            "links": [
+              {
+                "text": "The Right Honourable",
+                "type": "internal",
+                "page": "The Honorable",
+                "anchor": "Catalonia"
+              }
+            ]
+          },
+          "image": {
+            "text": "Ximo Puig en 2017.jpg"
+          },
+          "monarch": {
+            "text": "Felipe VI",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Felipe VI"
+              }
+            ]
+          },
+          "office": {
+            "text": "President of the Valencian Government",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the Valencian Government"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "25 June 2015"
+          },
+          "predecessor": {
+            "text": "Alberto Fabra",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alberto Fabra"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Secretary-General of the Socialist Party of the Valencian Country",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Socialist Party of the Valencian Country"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "30 March 2012"
+          },
+          "predecessor1": {
+            "text": "Jorge Alarte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jorge Alarte"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Congress of Deputies",
+            "links": [
+              {
+                "text": "Congress of Deputies",
+                "type": "internal",
+                "page": "Congress of Deputies (Spain)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "13 December 2011"
+          },
+          "term_end2": {
+            "text": "3 June 2015"
+          },
+          "constituency2": {
+            "text": "Castellón",
+            "links": [
+              {
+                "text": "Castellón",
+                "type": "internal",
+                "page": "Castellon (Spanish Congress Electoral District)"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the Corts Valencianes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Corts Valencianes"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "11 June 2015"
+          },
+          "constituency3": {
+            "text": "Castellón",
+            "links": [
+              {
+                "text": "Castellón",
+                "type": "internal",
+                "page": "Castellon (Spanish Congress Electoral District)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "13 July 1999"
+          },
+          "term_end4": {
+            "text": "22 May 2011"
+          },
+          "constituency4": {
+            "text": "Castellón",
+            "links": [
+              {
+                "text": "Castellón",
+                "type": "internal",
+                "page": "Castellon (Spanish Congress Electoral District)"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "7 June 1983"
+          },
+          "term_end5": {
+            "text": "17 April 1986"
+          },
+          "constituency5": {
+            "text": "Castellón",
+            "links": [
+              {
+                "text": "Castellón",
+                "type": "internal",
+                "page": "Castellon (Spanish Congress Electoral District)"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Joaquín Francisco Puig Ferrer"
+          },
+          "birth_date": {
+            "text": "January 4, 1959"
+          },
+          "birth_place": {
+            "text": "Morella, Valencian Community, Spain",
+            "links": [
+              {
+                "text": "Morella",
+                "type": "internal",
+                "page": "Morella, Castellón"
+              },
+              {
+                "type": "internal",
+                "page": "Valencian Community"
+              }
+            ]
+          },
+          "party": {
+            "text": "PSPV-PSOE",
+            "links": [
+              {
+                "text": "PSPV-PSOE",
+                "type": "internal",
+                "page": "Socialist Party of the Valencian Country"
+              }
+            ]
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "occupation": {
+            "text": "Journalist, politician"
+          },
+          "signature": {
+            "text": "Signatura de Ximo Puig.svg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Puig was born in Morella, Castellón.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Morella, Castellón"
+                }
+              ]
+            },
+            {
+              "text": "A journalist by profession, he worked for local newspapers and for the Antena 3 radio station.",
+              "links": [
+                {
+                  "text": "Antena 3",
+                  "type": "internal",
+                  "page": "Antena 3 (Spain)"
+                }
+              ]
+            },
+            {
+              "text": "He was elected to the Corts Valencianes, the Valencian regional parliament, in the first democratic elections in 1983.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Corts Valencianes"
+                },
+                {
+                  "text": "first democratic elections in 1983",
+                  "type": "internal",
+                  "page": "1983 Valencian parliamentary election"
+                }
+              ]
+            },
+            {
+              "text": "He resigned his seat in 1986, when he was appointed Director General of Institutional relations and information in the Valencian regional administration, serving until 1995."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 1995 he became mayor of his hometown of Morella, serving until 2012, when he resigned after becoming leader of the PSPV-PSOE."
+            },
+            {
+              "text": "In the 2011 Spanish general election he was elected to the Congress of Deputies, representing Castellón Province.",
+              "links": [
+                {
+                  "text": "2011 Spanish general election",
+                  "type": "internal",
+                  "page": "2011 Spanish general election"
+                },
+                {
+                  "text": "Congress of Deputies",
+                  "type": "internal",
+                  "page": "Congress of Deputies (Spain)"
+                },
+                {
+                  "text": "Castellón Province",
+                  "type": "internal",
+                  "page": "Castellón (Spanish Congress Electoral District)"
+                }
+              ]
+            },
+            {
+              "text": "In Congress, he served as spokesman for the committee on industry, energy and tourism."
+            },
+            {
+              "text": "In March 2014 Puig won the PSPV-PSOE primary to be the party's candidate for President of the Valencian Government in the 2015 regional elections.",
+              "links": [
+                {
+                  "text": "2015 regional elections",
+                  "type": "internal",
+                  "page": "2015 Valencian regional election"
+                }
+              ]
+            },
+            {
+              "text": "He received 68.8% of the votes in the primary."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 25 June 2015, he was invested President of the Valencian Government with the favourable votes of PSPV-PSOE, Podemos and Compromís, succeeding Alberto Fabra and putting an end to two decades of PP governments in the region.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of the Valencian Government"
+                },
+                {
+                  "text": "PSPV-PSOE",
+                  "type": "internal",
+                  "page": "Socialist Party of the Valencian Country"
+                },
+                {
+                  "text": "Podemos",
+                  "type": "internal",
+                  "page": "Podemos (Spanish political party)"
+                },
+                {
+                  "text": "Compromís",
+                  "type": "internal",
+                  "page": "Coalició Compromís"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alberto Fabra"
+                },
+                {
+                  "text": "PP",
+                  "type": "internal",
+                  "page": "People's Party (Spain)"
+                }
+              ]
+            },
+            {
+              "text": "He was re-elected for a second term, with the support of the same parties, on 13 June 2019."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Ximo Puig"
+          ],
+          "template": "commons category"
+        },
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Javier Fabregat",
+          "template": "s-bef"
+        },
+        {
+          "title": "Mayor of Morella",
+          "years": "1995–2012",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Rhmasés Ripollés",
+          "template": "s-aft"
+        },
+        {
+          "before": "Antonio Moreno",
+          "template": "s-bef"
+        },
+        {
+          "title": "Second Vice-President of Corts Valencianes",
+          "years": "2003–2007",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Isabel Escudero Pitarch",
+          "template": "s-aft"
+        },
+        {
+          "before": "Alberto Fabra",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the Valencian Government",
+          "years": "2015–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Antonio Moreno",
+          "template": "s-bef"
+        },
+        {
+          "title": "Leader of the Socialist Group in Corts Valencianes",
+          "years": "2000–2003",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Joan Ignasi Pla",
+          "template": "s-aft"
+        },
+        {
+          "before": "Jorge Alarte",
+          "template": "s-bef"
+        },
+        {
+          "title": "Secretary-General of the Socialist Party of the Valencian Country",
+          "years": "2012–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "spanish regional presidents"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

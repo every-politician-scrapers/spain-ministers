@@ -1,0 +1,164 @@
+{
+  "title": "Fernando López Miras",
+  "pageID": 59766298,
+  "categories": [
+    "1983 births",
+    "Presidents of the Region of Murcia",
+    "Members of the Regional Assembly of Murcia",
+    "People's Party (Spain) politicians",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fernando López Miras (born 4 October 1983) is a Spanish politician from the People's Party and President of the Region of Murcia since May 2017.",
+              "links": [
+                {
+                  "text": "People's Party",
+                  "type": "internal",
+                  "page": "People's Party (Spain)"
+                },
+                {
+                  "type": "internal",
+                  "page": "President of the Region of Murcia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Fernando López Miras"
+                ]
+              }
+            },
+            {
+              "text": "Second López Miras Government of Murcia",
+              "links": [
+                {
+                  "text": "Second López Miras Government of Murcia",
+                  "type": "internal",
+                  "page": "Second López Miras government"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Spanish politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2019",
+          "list": [
+            "Fernando López Miras"
+          ],
+          "template": "expand spanish"
+        },
+        {
+          "df": "y",
+          "year": "1983",
+          "month": "10",
+          "day": "4",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Fernando López Miras"
+          },
+          "image": {
+            "text": "FLM.jpg"
+          },
+          "office": {
+            "text": "President of the Region of Murcia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the Region of Murcia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "3 May 2017"
+          },
+          "predecessor": {
+            "text": "Pedro Antonio Sánchez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pedro Antonio Sánchez"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Fernando López Miras"
+          },
+          "birth_date": {
+            "text": "October 4, 1983"
+          },
+          "birth_place": {
+            "text": "Lorca, Murcia, Spain",
+            "links": [
+              {
+                "text": "Lorca",
+                "type": "internal",
+                "page": "Lorca, Spain"
+              },
+              {
+                "text": "Murcia",
+                "type": "internal",
+                "page": "Region of Murcia"
+              },
+              {
+                "type": "internal",
+                "page": "Spain"
+              }
+            ]
+          },
+          "party": {
+            "text": "People's Party of the Region of Murcia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's Party of the Region of Murcia"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "29 April 2017",
+          "url": "https://www.efe.com/efe/espana/portada/lopez-miras-elegido-presidente-de-murcia-con-la-abstencion-ciudadanos/10010-3252253",
+          "title": "López Miras, elegido presidente de Murcia con la abstención de Ciudadanos",
+          "work": "Agencia EFE",
+          "language": "Spanish",
+          "access-date": "25 January 2019",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "spanish regional presidents"
+        },
+        {
+          "template": "murcia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

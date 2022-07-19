@@ -1,0 +1,205 @@
+{
+  "title": "Juan Jesús Vivas",
+  "pageID": 689977,
+  "categories": [
+    "1953 births",
+    "Living people",
+    "Mayor-Presidents of Ceuta",
+    "Members of the Assembly of Ceuta",
+    "People from Ceuta"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Juan Jesús Vivas Lara (born 27 February 1953) is a Spanish politician who is the current Mayor-President of the autonomous city of Ceuta, since 8 February 2001.",
+              "links": [
+                {
+                  "text": "Mayor-President",
+                  "type": "internal",
+                  "page": "Mayor-President of Ceuta"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ceuta"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Juan Jesús Vivas Lara"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the People's Party (PP).",
+              "links": [
+                {
+                  "text": "People's Party",
+                  "type": "internal",
+                  "page": "People's Party (Spain)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Juan_Jesús_Vivas_(2019).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Juan_Jes%C3%BAs_Vivas_(2019).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Juan_Jes%C3%BAs_Vivas_(2019).jpg",
+          "caption": "Vivas in 2019",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Spanish politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Vivas",
+            "Lara"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.elpais.com/todo-sobre/persona/Juan/Jesus/Vivas/Lara/263/",
+          "archive-url": "https://archive.today/20120629071939/http://www.elpais.com/todo-sobre/persona/Juan/Jesus/Vivas/Lara/263/",
+          "url-status": "dead",
+          "archive-date": "29 June 2012",
+          "title": "Juan Jesús Vivas Lara - Juan Jesús Vivas Lara",
+          "work": "ELPAÍS.com",
+          "accessdate": "20 July 2010",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in Ceuta in 1953, Juan Jesús Vivas earned a degree in Economic Sciences from the University of Málaga.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ceuta"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Málaga"
+                }
+              ]
+            },
+            {
+              "text": "He became a member of the Assembly of Ceuta in 1999 and he was invested as Mayor-President of the autonomous city in 2001, after a successful motion of no-confidence launched against GIL's Mayor-President Antonio Sampietro.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Assembly of Ceuta"
+                },
+                {
+                  "text": "GIL",
+                  "type": "internal",
+                  "page": "Grupo Independiente Liberal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Antonio Sampietro"
+                }
+              ]
+            },
+            {
+              "text": "In 2021, he disclosed that he was not willing to renew his mandate in 2023."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Vivas tested positive for COVID-19 on 10 January 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.elmundo.es/especiales/2007/05/elecciones_mayo_2007/html/municipales/candidatos/ceuta.html",
+          "website": "El Mundo",
+          "title": "Candidatos. Ceuta",
+          "date": "2007",
+          "access-date": "10 September 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.nuevaeconomiaforum.org/ponentes/juan-jesus-vivas-lara",
+          "website": "Nueva Economía",
+          "title": "Juan Jesús Vivas Lara. Presidente de la Ciudad Autónoma de Ceuta",
+          "access-date": "10 September 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.efe.com/efe/espana/politica/juan-jesus-vivas-no-se-presentara-a-otras-elecciones-tras-20-anos-de-mandato/10002-4514206",
+          "website": "EFE",
+          "title": "Juan Jesús Vivas no se presentará a otras elecciones tras 20 años de mandato",
+          "date": "17 April 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "commons category"
+        },
+        {
+          "template": "spanish regional presidents"
+        },
+        {
+          "template": "spain-mayor-stub"
+        },
+        {
+          "template": "ceuta-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "title": "Ione Belarra",
+  "pageID": 67108576,
+  "categories": [
+    "1987 births",
+    "Living people",
+    "Autonomous University of Madrid alumni",
+    "Members of the 11th Congress of Deputies (Spain)",
+    "Members of the 12th Congress of Deputies (Spain)",
+    "Members of the 13th Congress of Deputies (Spain)",
+    "Members of the 14th Congress of Deputies (Spain)",
+    "People from Pamplona",
+    "Politicians from Navarre",
+    "Podemos (Spanish political party) politicians",
+    "Spanish women psychologists",
+    "Leaders of political parties in Spain"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ione Belarra Urteaga (born 25 September 1987) is a Spanish politician and psychologist from Podemos who currently serves as Minister of Social Rights and 2030 Agenda.",
+              "links": [
+                {
+                  "text": "Podemos",
+                  "type": "internal",
+                  "page": "Podemos (Spanish political party)"
+                },
+                {
+                  "text": "Minister of Social Rights and 2030 Agenda",
+                  "type": "internal",
+                  "page": "Ministry of Social Rights and 2030 Agenda"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ione Belarra Urteaga"
+                ]
+              }
+            },
+            {
+              "text": "She has been her party's leader since June 2021."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Spanish politician",
+          "template": "short description"
+        },
+        {
+          "langcode": "ES",
+          "otherarticle": "Ione Belarra",
+          "date": "March 2021",
+          "template": "expand language"
+        },
+        {
+          "list": [
+            "Belarra",
+            "Urteaga"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1987",
+          "month": "9",
+          "day": "25",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ione Belarra"
+          },
+          "honorific-prefix": {
+            "text": "The Most Excellent",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Most Excellent"
+              }
+            ]
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Congress of Deputies (Spain)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Ione Belarra.jpg"
+          },
+          "office": {
+            "text": "Minister of Social Rights and 2030 Agenda",
+            "links": [
+              {
+                "text": "Minister of Social Rights and 2030 Agenda",
+                "type": "internal",
+                "page": "Ministry of Social Affairs (Spain)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "31 March 2021"
+          },
+          "monarch": {
+            "text": "Felipe VI",
+            "links": [
+              {
+                "text": "Felipe VI",
+                "type": "internal",
+                "page": "Felipe VI of Spain"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Pedro Sánchez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pedro Sánchez"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Pablo Iglesias",
+            "links": [
+              {
+                "text": "Pablo Iglesias",
+                "type": "internal",
+                "page": "Pablo Iglesias Turrión"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Secretary General of Podemos",
+            "links": [
+              {
+                "text": "Podemos",
+                "type": "internal",
+                "page": "Podemos (Spanish political party)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "13 June 2021"
+          },
+          "predecessor1": {
+            "text": "Pablo Iglesias",
+            "links": [
+              {
+                "text": "Pablo Iglesias",
+                "type": "internal",
+                "page": "Pablo Iglesias Turrión"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Secretary of State for the 2030 Agenda",
+            "links": [
+              {
+                "text": "Secretary of State for the 2030 Agenda",
+                "type": "internal",
+                "page": "Government of Spain"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "15 January 2020"
+          },
+          "term_end2": {
+            "text": "31 March 2021"
+          },
+          "primeminister2": {
+            "text": "Pedro Sánchez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pedro Sánchez"
+              }
+            ]
+          },
+          "monarch2": {
+            "text": "Felipe VI",
+            "links": [
+              {
+                "text": "Felipe VI",
+                "type": "internal",
+                "page": "Felipe VI of Spain"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Enrique Santiago",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Enrique Santiago"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Ione Belarra Urteaga"
+          },
+          "birth_date": {
+            "text": "September 25, 1987"
+          },
+          "birth_place": {
+            "text": "Pamplona, Spain",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pamplona"
+              },
+              {
+                "type": "internal",
+                "page": "Spain"
+              }
+            ]
+          },
+          "party": {
+            "text": "Podemos",
+            "links": [
+              {
+                "text": "Podemos",
+                "type": "internal",
+                "page": "Podemos (Spanish political party)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Autonomous University of Madrid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Autonomous University of Madrid"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in Pamplona, Navarre, Belarra graduated in Psychology in 2012 from the Autonomous University of Madrid, where she was a classmate of Irene Montero.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pamplona"
+                },
+                {
+                  "type": "internal",
+                  "page": "Navarre"
+                },
+                {
+                  "type": "internal",
+                  "page": "Autonomous University of Madrid"
+                },
+                {
+                  "type": "internal",
+                  "page": "Irene Montero"
+                }
+              ]
+            },
+            {
+              "text": "Belarra also obtained a master's degree in Education, and both she and Montero left their doctoral programmes because of their political careers."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "One of Belarra's earliest activist campaigns was against immigrant detention centres."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Martí",
+          "first1": "Rafa",
+          "title": "Montero y Belarra, las ‘compis’ de Psicología sin doctorado, con 4.300M en sus ministerios",
+          "url": "https://www.elespanol.com/reportajes/20210320/montero-belarra-compis-psicologia-sin-doctorado-ministerios/567194385_0.html",
+          "access-date": "21 February 2022",
+          "work": "El Español",
+          "date": "20 March 2021",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Vasco",
+          "first1": "Celia",
+          "title": "Ione Belarra, de activista a ministra en cinco años",
+          "url": "https://www.publico.es/politica/ione-belarra-activista-ministra-cinco-anos.html",
+          "access-date": "21 February 2022",
+          "work": "Público",
+          "date": "15 March 2021",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Belarra joined Podemos in its founding year, 2014.",
+              "links": [
+                {
+                  "text": "Podemos",
+                  "type": "internal",
+                  "page": "Podemos (Spanish political party)"
+                }
+              ]
+            },
+            {
+              "text": "The following year, she entered its national executive, the Citizens' Council, where she was put in charge of the area of Human Rights, Citizenship and Diversity."
+            },
+            {
+              "text": "She led Podemos's list in the Navarre constituency in the 2015 Spanish general election, being one of two Podemos members elected by the region.",
+              "links": [
+                {
+                  "text": "Navarre constituency",
+                  "type": "internal",
+                  "page": "Navarre (Congress of Deputies constituency)"
+                },
+                {
+                  "text": "2015 Spanish general election",
+                  "type": "internal",
+                  "page": "2015 Spanish general election"
+                }
+              ]
+            },
+            {
+              "text": "From July 2018, she and Pablo Echenique filled in as parliamentary and general spokespeople of Podemos respectively, during Montero and Pablo Iglesias's leave for the birth of their child.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pablo Echenique"
+                },
+                {
+                  "text": "Pablo Iglesias",
+                  "type": "internal",
+                  "page": "Pablo Iglesias Turrión"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After the November 2019 Spanish general election, Podemos entered government with the Spanish Socialist Workers' Party (PSOE), and Belarra became Secretary of State for the 2030 Agenda from January 2020 to March 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "November 2019 Spanish general election"
+                },
+                {
+                  "type": "internal",
+                  "page": "Spanish Socialist Workers' Party"
+                }
+              ]
+            },
+            {
+              "text": "She then became Minister of Social Rights and 2030 Agenda.",
+              "links": [
+                {
+                  "text": "Minister of Social Rights and 2030 Agenda",
+                  "type": "internal",
+                  "page": "Ministry of Social Rights and 2030 Agenda"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After Iglesias's retirement, Belarra was voted secretary general of Podemos with 88.69% of the members' votes in June 2021, while Yolanda Díaz succeeded Iglesias as leader of Unidas Podemos.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yolanda Díaz"
+                },
+                {
+                  "type": "internal",
+                  "page": "Unidas Podemos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2022, Belarra introduced legislation to ban the sale of pets in shops, convert zoos into wildlife recovery centres and impose prison sentences for abusers as part of Spain’s first animal-rights bill, which notably did not target bullfighting.",
+              "links": [
+                {
+                  "text": "bullfighting",
+                  "type": "internal",
+                  "page": "bullfighting"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Ione Belarra, cabeza de lista de Podemos al Congreso por Navarra",
+          "url": "https://www.diariodenavarra.es/noticias/navarra/mas_navarra/2015/11/11/ione_belarra_cabeza_lista_podemos_congreso_por_navarra_327130_2061.html",
+          "access-date": "21 February 2022",
+          "work": "Diario de Navarra",
+          "date": "11 December 2015",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Ione Belarra (Podemos): \"Estamos ante un resultado histórico para una fuerza que se presenta por primera vez\"",
+          "url": "https://navarra.elespanol.com/articulo/politica/navarra-20d-podemos-navarra-ve-historico-resultado-y-dejara-piel-servicio-gente/20151221005547016912.html",
+          "access-date": "21 February 2022",
+          "agency": "Europa Press",
+          "publisher": "Navarra.com",
+          "date": "21 December 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Gil",
+          "first1": "Iván",
+          "title": "Belarra y Echenique encabezarán Podemos durante las bajas de Montero e Iglesias",
+          "url": "https://www.elconfidencial.com/espana/2018-07-06/belarra-echenique-podemos-baja-montero-iglesias_1588572/",
+          "access-date": "21 February 2022",
+          "work": "El Confidencial",
+          "date": "6 July 2018",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "E. Cué",
+          "first1": "Carlos",
+          "last2": "Santaeulalia",
+          "first2": "Inés",
+          "date": "15 March 2021",
+          "url": "https://elpais.com/espana/2021-03-15/iglesias-deja-el-gobierno-para-ser-candidato-en-madrid-y-ofrece-a-errejon-un-frente-comun.html",
+          "title": "Pablo Iglesias deja el Gobierno para ser candidato en Madrid y ofrece a Errejón un frente común",
+          "language": "es",
+          "newspaper": "El País",
+          "location": "Montauban / Madrid",
+          "access-date": "15 March 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Cruz",
+          "first": "Marisa",
+          "date": "15 March 2021",
+          "url": "https://www.elmundo.es/espana/2021/03/15/604f4beafc6c83ac178b4607.html",
+          "title": "Pablo Iglesias exige a Pedro Sánchez que nombre a Yolanda Díaz vicepresidenta y a Ione Belarra ministra",
+          "language": "es",
+          "newspaper": "El Mundo",
+          "location": "Madrid",
+          "access-date": "15 March 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Coll",
+          "first1": "Vicente",
+          "title": "Ione Belarra toma el relevo de Pablo Iglesias al frente de Podemos con el 88,69% de los votos",
+          "url": "https://www.elmundo.es/espana/2021/06/13/60c5e0d9e4d4d874788b4625.html",
+          "access-date": "21 February 2022",
+          "work": "El Mundo",
+          "date": "13 June 2021",
+          "language": "Spanish",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

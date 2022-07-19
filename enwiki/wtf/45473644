@@ -1,0 +1,780 @@
+{
+  "title": "Juan Manuel Moreno",
+  "pageID": 45473644,
+  "categories": [
+    "1970 births",
+    "Living people",
+    "People's Party (Spain) politicians",
+    "Members of the 7th Congress of Deputies (Spain)",
+    "Members of the 8th Congress of Deputies (Spain)",
+    "Members of the 9th Congress of Deputies (Spain)",
+    "Members of the 10th Congress of Deputies (Spain)",
+    "People from Barcelona",
+    "Members of the Senate of Spain",
+    "Municipal councillors in the province of Málaga",
+    "Members of the 5th Parliament of Andalusia",
+    "Members of the 10th Parliament of Andalusia",
+    "Members of the 11th Parliament of Andalusia",
+    "Presidents of the Regional Government of Andalusia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Juan Manuel Moreno Bonilla (born 1 May 1970) is a Spanish politician and member of the People's Party, currently and since 18 January 2019 President of the Autonomous Government of Andalusia as well as President of the PP Andalusian branch.",
+              "links": [
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "People's Party",
+                  "type": "internal",
+                  "page": "People's Party (Spain)"
+                },
+                {
+                  "text": "President of the Autonomous Government of Andalusia",
+                  "type": "internal",
+                  "page": "President of the Regional Government of Andalusia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Juan Manuel Moreno Bonilla"
+                ]
+              }
+            },
+            {
+              "text": "He represented the Cantabria constituency in the Spanish Congress of Deputies from 2000 to 2004 and the Málaga constituency from 2007 to 2011.",
+              "links": [
+                {
+                  "text": "Cantabria constituency",
+                  "type": "internal",
+                  "page": "Cantabria (Congress of Deputies constituency)"
+                },
+                {
+                  "text": "Spanish Congress of Deputies",
+                  "type": "internal",
+                  "page": "Congress of Deputies (Spain)"
+                },
+                {
+                  "text": "Málaga constituency",
+                  "type": "internal",
+                  "page": "Málaga (Congress of Deputies constituency)"
+                }
+              ]
+            },
+            {
+              "text": "He has also been a member of the Senate of Spain and Parliament of Andalusia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Senate of Spain"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliament of Andalusia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Spanish politician",
+          "template": "short description"
+        },
+        {
+          "fa": "yes",
+          "date": "February 2015",
+          "template": "expand spanish"
+        },
+        {
+          "list": [
+            "Moreno",
+            "Bonilla"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1970",
+          "month": "5",
+          "day": "1",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Juan Manuel Moreno"
+          },
+          "honorific_prefix": {
+            "text": "The Most Excellent",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Most Excellent"
+              }
+            ]
+          },
+          "honorific_suffix": {
+            "text": "MP OIC",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Parliament of Andalusia"
+              },
+              {
+                "text": "OIC",
+                "type": "internal",
+                "page": "Order of Isabella the Catholic"
+              }
+            ]
+          },
+          "image": {
+            "text": "Juanma Moreno B. (cropped).jpg"
+          },
+          "caption": {
+            "text": "Moreno in 2022"
+          },
+          "office": {
+            "text": "6th President of the Autonomous Government of Andalusia",
+            "links": [
+              {
+                "text": "President of the Autonomous Government of Andalusia",
+                "type": "internal",
+                "page": "President of the Regional Government of Andalusia"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Felipe VI",
+            "links": [
+              {
+                "text": "Felipe VI",
+                "type": "internal",
+                "page": "Felipe VI of Spain"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Juan Marín",
+            "links": [
+              {
+                "text": "Juan Marín",
+                "type": "internal",
+                "page": "Juan Marín (Spanish politician)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "18 January 2019"
+          },
+          "predecessor": {
+            "text": "Susana Díaz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Susana Díaz"
+              }
+            ]
+          },
+          "office2": {
+            "text": "President of the People's Party of Andalusia",
+            "links": [
+              {
+                "text": "People's Party of Andalusia",
+                "type": "internal",
+                "page": "People's Party (Spain)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 March 2014"
+          },
+          "predecessor2": {
+            "text": "Juan Ignacio Zoido",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juan Ignacio Zoido"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the Congress of Deputies",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Congress of Deputies"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "12 March 2000"
+          },
+          "term_end3": {
+            "text": "2 April 2004"
+          },
+          "constituency3": {
+            "text": "Cantabria",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cantabria"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "1 March 2007"
+          },
+          "term_end4": {
+            "text": "13 December 2011"
+          },
+          "constituency4": {
+            "text": "Málaga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Málaga"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Member of the Senate",
+            "links": [
+              {
+                "text": "Senate",
+                "type": "internal",
+                "page": "Spanish Senate"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "3 June 2014"
+          },
+          "term_end5": {
+            "text": "27 September 2017"
+          },
+          "constituency5": {
+            "text": "Parliament of Andalusia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Parliament of Andalusia"
+              }
+            ]
+          },
+          "office6": {
+            "text": "Member of the Parliament of Andalusia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Parliament of Andalusia"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "16 April 2015"
+          },
+          "constituency6": {
+            "text": "Málaga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Málaga"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "3 March 1996"
+          },
+          "term_end7": {
+            "text": "12 March 2000"
+          },
+          "constituency7": {
+            "text": "Málaga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Málaga"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Juan Manuel Moreno Bonilla"
+          },
+          "birth_date": {
+            "text": "May 1, 1970"
+          },
+          "birth_place": {
+            "text": "Barcelona, Spain",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Barcelona"
+              },
+              {
+                "type": "internal",
+                "page": "Spain"
+              }
+            ]
+          },
+          "party": {
+            "text": "People's Party",
+            "links": [
+              {
+                "text": "People's Party",
+                "type": "internal",
+                "page": "People's Party (Spain)"
+              }
+            ]
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "Camilo José Cela University",
+            "links": [
+              {
+                "text": "Camilo José Cela University",
+                "type": "internal",
+                "page": "Universidad Camilo José Cela"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://elcorreoweb.es/andalucia/el-candidato-a-la-alcaldia-de-sevilla-sera-quien-mas-garantias-nos-de-XC3466671",
+          "title": "El candidato a la alcaldía de Sevilla será quien más garantías nos dé",
+          "last": "Cabello",
+          "first": "Alberto",
+          "date": "23 October 2017",
+          "work": "El Correo",
+          "language": "Spanish",
+          "accessdate": "7 November 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in Barcelona (Catalonia) in 1970 as the second child of two Andalusian immigrants (Juan Moreno & María Bonilla) originating from the Malaga province town of Alhaurín el Grande, Juan Manuel Moreno was only three months old when his family returned to its homeland, where he spent his childhood.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Barcelona"
+                },
+                {
+                  "text": "Malaga province",
+                  "type": "internal",
+                  "page": "Province of Málaga"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alhaurín el Grande"
+                }
+              ]
+            },
+            {
+              "text": "Moreno acquired his bachelor's degree in Protocol and Institutional Relations at Camilo José Cela University (UCJC).",
+              "links": [
+                {
+                  "text": "Camilo José Cela University",
+                  "type": "internal",
+                  "page": "Universidad Camilo José Cela"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://elpais.com/ccaa/2014/02/11/andalucia/1392118872_574700.html",
+          "title": "Hijo de emigrantes y nieto de jornalero",
+          "last": "Codina",
+          "first": "Esperanza",
+          "date": "2014-02-11",
+          "work": "El País",
+          "access-date": "2019-01-20",
+          "language": "es",
+          "issn": "1134-6582",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.20minutos.es/noticia/3479759/0/quien-es-juan-manuel-moreno-presidente-andalucia/",
+          "title": "¿Quién es Juan Manuel Moreno Bonilla, el nuevo presidente de Andalucía?",
+          "last": "20Minutos",
+          "date": "2018-11-16",
+          "website": "20minutos.es - Últimas Noticias",
+          "language": "es",
+          "access-date": "2019-01-20",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Moreno started his career in the realm of politics when he ran, as a 24-year-old, in the Malaga municipal elections in the list of the Partido Popular (People's Party), the main conservative party in Spain, being elected city councillor.",
+              "links": [
+                {
+                  "text": "People's Party",
+                  "type": "internal",
+                  "page": "People's Party (Spain)"
+                }
+              ]
+            },
+            {
+              "text": "He also held the position of President of the New Generations of the party and coordinated the party's regional politics alongside Javier Arenas, who, as Moreno would from 2014 onwards, held the presidency of the party's Andalusian branch between 1993 and 1999.",
+              "links": [
+                {
+                  "text": "Javier Arenas",
+                  "type": "internal",
+                  "page": "Javier Arenas (politician)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.20minutos.es/noticia/3479759/0/quien-es-juan-manuel-moreno-presidente-andalucia/",
+          "title": "¿Quién es Juan Manuel Moreno Bonilla, el nuevo presidente de Andalucía?",
+          "last": "20Minutos",
+          "date": "2018-11-16",
+          "website": "20minutos.es - Últimas Noticias",
+          "language": "es",
+          "access-date": "2019-01-20",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Councillor, Malaga City Council (1995–1997)",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1995, at the age of 25, he was elected Councillor for Youth and Sport in the Malaga Town Hall, with Celia Villalobos as Mayor, as well as President of the Municipal Board of the district of Campanillas and Puerto de la Torre."
+            },
+            {
+              "text": "A year later, he was already President of Nuevas Generaciones de Andalucía."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Moreno Bonilla, el 'tapado' de... Twitter",
+          "url": "https://www.elmundo.es/andalucia/2014/02/11/52fa0b6522601d83018b4579.html",
+          "date": "2014-02-11",
+          "website": "ELMUNDO",
+          "language": "es",
+          "access-date": "2020-05-13",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Moreno Bonilla, el 'tapado' de... Twitter",
+          "url": "https://www.elmundo.es/andalucia/2014/02/11/52fa0b6522601d83018b4579.html",
+          "date": "2014-02-11",
+          "website": "ELMUNDO",
+          "language": "es",
+          "access-date": "2020-05-13",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Regional deputy in the Parliament of Andalusia (1997–2000)",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1997, at the age of 27, he was elected Member of Parliament for Malaga and spokesman for the Popular Parliamentary Group's Youth during the V Legislature of the Parliament of Andalusia."
+            },
+            {
+              "text": "He was also elected president of New Generations at the national level and responsible for the party's Autonomous and Local Policy."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Codina",
+          "first": "Esperanza",
+          "date": "2014-02-11",
+          "title": "Hijo de emigrantes y nieto de jornalero",
+          "language": "es",
+          "work": "El País",
+          "url": "https://elpais.com/ccaa/2014/02/11/andalucia/1392118872_574700.html",
+          "access-date": "2020-05-13",
+          "issn": "1134-6582",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Un 'cocinero' en la calle Génova",
+          "url": "https://www.diariosur.es/20080228/espana/cocinero-calle-genova-20080228.html",
+          "date": "2008-02-28",
+          "website": "Diario Sur",
+          "language": "es-ES",
+          "access-date": "2020-05-13",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "National Representative in Congress (2000–2011)",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was a national deputy in the Congress during the VII (for Cantabria), VIII, IX and X legislatures, acting as deputy spokesman of the Popular Group in the Science and Technology Commission and as secretary in the Social Affairs Commission."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He obtained a degree in Protocol and Organization of Events from the Camilo José Cela University, as well as several of his own degrees (Higher University Degree in Protocol and Institutional Relations from the Camilo José Cela University, Master's Degree in Business Management and Administration from the Escuela Autónoma de Dirección de Empresas and the Leadership Program for Public Management from IESE Business School) and a prize (Golden master's degree from the Royal Forum for Senior Management)."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In September 2006, he married Granada-based political scientist Manuela Villena."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2018 regional elections, the People's Party list led by Moreno obtained a representation of 26 seats in the parliament, finishing second behind the Spanish Socialist Party (PSOE), which had been the only party in the government of Andalusia since Spain became a democracy, obtaining 33 seats.",
+              "links": [
+                {
+                  "text": "2018 regional elections",
+                  "type": "internal",
+                  "page": "2018 Andalusian regional election"
+                },
+                {
+                  "text": "PSOE",
+                  "type": "internal",
+                  "page": "Spanish Socialist Workers' Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andalusia"
+                }
+              ]
+            },
+            {
+              "text": "Despite the PP scoring one of its worst historical results in the region, it was able to reach a government agreement with the liberal Ciudadanos (Cs), which had obtained 21 seats, and secured the support of Vox, the young far-right party that obtained 12 seats.",
+              "links": [
+                {
+                  "text": "Ciudadanos",
+                  "type": "internal",
+                  "page": "Citizens (Spanish political party)"
+                },
+                {
+                  "text": "Vox",
+                  "type": "internal",
+                  "page": "Vox (Spanish political party)"
+                }
+              ]
+            },
+            {
+              "text": "This way, Moreno was elected president with the support of 59 of the 109 members in the Parliament of Andalusia."
+            },
+            {
+              "text": "He thus became the first conservative president of Andalusia in Spain's four-decade-long democracy."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Due to the rejection by Vox of the 2022 budget, Moreno called for snap elections."
+            },
+            {
+              "text": "In the 2022 regional elections, PP got an absolute majority with 58 seats, stopping Vox and defeating PSOE in its former stronghold.",
+              "links": [
+                {
+                  "text": "2022 regional elections",
+                  "type": "internal",
+                  "page": "2022 Andalusian regional election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "El curioso currículum menguante de Moreno Bonilla, el futuro presidente del PP andaluz",
+          "url": "https://www.eldiario.es/andalucia/misterioso-curriculum-Moreno-Bonilla_0_228527540.html",
+          "last": "Hevia",
+          "first": "Lucrecia",
+          "website": "eldiario.es",
+          "language": "es",
+          "access-date": "2020-05-13",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "El malagueño cercano que ha conquistado Madrid",
+          "url": "https://www.diariosur.es/v/20111110/elecciones/20n-2011/noticias/malagueno-cercano-conquistado-madrid-20111110.html",
+          "date": "2011-11-10",
+          "website": "Diario Sur",
+          "language": "es-ES",
+          "access-date": "2020-05-13",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://sevilla.abc.es/elecciones/andalucia/resultados/",
+          "title": "Resultados Elecciones Andaluzas 2D {{!}} Andalucía 2018",
+          "website": "ABCdeSevilla.es",
+          "access-date": "2019-01-20",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.lasprovincias.es/politica/investidura-juanma-moreno-andalucia-20190116100929-ntrc.html",
+          "title": "El PP pone fin a 36 años de socialismo en Andalucía gracias a Vox",
+          "date": "2019-01-17",
+          "website": "Las Provincias",
+          "language": "es",
+          "access-date": "2019-01-20",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Laura Seara",
+          "template": "s-bef"
+        },
+        {
+          "title": "Secretary of State for Social Services and Equality",
+          "years": "2011–2014",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Susana Camarero",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-break"
+        },
+        {
+          "before": "Susana Díaz",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the Regional Government of Andalusia",
+          "years": "2019–present",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Incumbent",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-break"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Pedro Calvo Poch",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the New Generations of the People's Party",
+          "years": "1997–2001",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Carmen Fúnez de Gregorio",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-break"
+        },
+        {
+          "list": [
+            ""
+          ],
+          "before": "Juan Ignacio Zoido",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the People's Party of Andalusia",
+          "years": "2014–present",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Incumbent",
+          "template": "s-aft"
+        },
+        {
+          "template": "spanish regional presidents"
+        }
+      ]
+    }
+  ]
+}

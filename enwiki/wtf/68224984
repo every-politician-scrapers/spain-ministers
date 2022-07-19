@@ -1,0 +1,225 @@
+{
+  "title": "Raquel Sánchez Jiménez",
+  "pageID": 68224984,
+  "categories": [
+    "1975 births",
+    "Government ministers of Spain",
+    "Living people",
+    "Socialists' Party of Catalonia politicians",
+    "People from Catalonia",
+    "Public works ministers of Spain"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Raquel Sánchez Jiménez (born 18 November 1975) is a Spanish lawyer and politician of the Socialists' Party of Catalonia who has been serving as Minister of Transport, Mobility and Urban Agenda of the Government of Spain since July 2021, in the cabinet presided by Pedro Sánchez.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Socialists' Party of Catalonia"
+                },
+                {
+                  "text": "Minister of Transport, Mobility and Urban Agenda",
+                  "type": "internal",
+                  "page": "Ministry of Development (Spain)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Government of Spain"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pedro Sánchez"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Raquel Sánchez Jiménez"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Spanish politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Sánchez",
+            "Jiménez"
+          ],
+          "lang": "Spanish",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1975",
+          "month": "11",
+          "day": "18",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Raquel Sánchez Jiménez"
+          },
+          "honorific_prefix": {
+            "text": "The Most Excellent",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Most Excellent"
+              }
+            ]
+          },
+          "image": {
+            "text": "Raquel Sánchez 2021 (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister of Transport, Mobility and Urban Agenda",
+            "links": [
+              {
+                "text": "Minister of Transport, Mobility and Urban Agenda",
+                "type": "internal",
+                "page": "Ministry of Development (Spain)"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Felipe VI",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Felipe VI"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Pedro Sánchez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pedro Sánchez"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "12 July 2021"
+          },
+          "predecessor": {
+            "text": "José Luis Ábalos",
+            "links": [
+              {
+                "type": "internal",
+                "page": "José Luis Ábalos"
+              }
+            ]
+          },
+          "party": {
+            "text": "Socialists' Party of Catalonia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Socialists' Party of Catalonia"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 18, 1975"
+          },
+          "birth_place": {
+            "text": "Gavá, Barcelona, Spain",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gavá"
+              },
+              {
+                "text": "Barcelona",
+                "type": "internal",
+                "page": "Province of Barcelona"
+              },
+              {
+                "type": "internal",
+                "page": "Spain"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "publisher": "Agencia Estatal Boletín Oficial del Estado",
+          "journal": "Boletín Oficial del Estado",
+          "issue": "165",
+          "date": "12 July 2021",
+          "language": "es",
+          "title": "Real Decreto 528/2021, de 10 de julio, por el que se nombra Ministra de Transportes, Movilidad y Agenda Urbana a doña Raquel Sánchez Jiménez",
+          "url": "https://boe.es/boe/dias/2021/07/12/pdfs/BOE-A-2021-11534.pdf",
+          "issn": "0212-033X",
+          "page": "82902",
+          "template": "citation",
+          "type": "journal"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sánchez Jiménez previously served as mayor of Gavà since 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gavà"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2022, Sánchez Jiménez led negotiations with Spain’s transport associations that resulted in a 1 billion euro ($1.10 billion) support package aimed at defusing the walkout over fuel prices that has caused sporadic goods shortages."
+            },
+            {
+              "text": "In response, Spanish truck drivers announced in March 2022 they would continue their strike \"indefinitely.\""
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "spain-stub"
+        }
+      ]
+    }
+  ]
+}
