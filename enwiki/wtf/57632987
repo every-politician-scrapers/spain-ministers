@@ -21,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Dolores Delgado García (born 9 November 1962) is a Spanish prosecutor who is the current and 92nd Attorney General of Spain.",
+              "text": "Dolores Delgado García (born 9 November 1962) is a Spanish prosecutor who served as Attorney General of Spain from 2020 to 2022.",
               "links": [
                 {
                   "text": "prosecutor",
@@ -40,12 +40,12 @@
               }
             },
             {
-              "text": "Previously, she served as Minister of Justice of Spain and First Notary of the Kingdom from 2018 to 2020, in the first Pedro Sánchez administration.",
+              "text": "Previously, she served as Minister of Justice and First Notary of the Kingdom from 2018 to 2020, in the first Pedro Sánchez administration.",
               "links": [
                 {
-                  "text": "Minister of Justice of Spain",
+                  "text": "Minister of Justice",
                   "type": "internal",
-                  "page": "Ministry of Justice of Spain"
+                  "page": "Ministry of Justice (Spain)"
                 },
                 {
                   "type": "internal",
@@ -156,7 +156,7 @@
             "text": "(Dolores Delgado) Acto Homenaje en Cáceres (46540177085) (cropped).jpg"
           },
           "office": {
-            "text": "92nd Attorney General of Spain",
+            "text": "Attorney General of Spain",
             "links": [
               {
                 "text": "Attorney General of Spain",
@@ -167,6 +167,9 @@
           },
           "term_start": {
             "text": "26 February 2020"
+          },
+          "term_end": {
+            "text": "20 July 2022"
           },
           "predecessor": {
             "text": "María José Segarra Luis Navajas (acting)",
@@ -180,6 +183,9 @@
                 "page": "Luis Navajas"
               }
             ]
+          },
+          "successor": {
+            "text": "TBD\nMaría Ángeles Sánchez Conde (acting)"
           },
           "office2": {
             "text": "Minister of Justice First Notary of the Kingdom",
@@ -675,7 +681,7 @@
       ]
     },
     {
-      "title": "Attorney General, 2020–",
+      "title": "Attorney General, 2020–2022",
       "depth": 1,
       "paragraphs": [
         {
@@ -757,6 +763,13 @@
                   "page": "COVID-19 pandemic in Spain"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2022, she stepped down as Attorney General due to health issues."
             }
           ]
         }
@@ -841,6 +854,28 @@
           "website": "El Periódico",
           "language": "es",
           "date": "2020-10-18",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Águeda",
+          "first": "Irene Castro, Pedro",
+          "date": "2022-07-19",
+          "title": "Dolores Delgado renuncia como fiscal general del Estado por razones de salud",
+          "url": "https://www.eldiario.es/politica/dolores-delgado-renuncia-fiscal-general-razones-salud_1_9182300.html",
+          "access-date": "2022-07-20",
+          "website": "ElDiario.es",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-07-19",
+          "title": "Dolores Delgado renuncia como Fiscal General del Estado",
+          "url": "https://www.elmundo.es/espana/2022/07/19/62d675ec21efa0705e8b4593.html",
+          "access-date": "2022-07-20",
+          "website": "ELMUNDO",
+          "language": "es",
           "template": "citation",
           "type": "web"
         }
