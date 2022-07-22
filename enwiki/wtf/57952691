@@ -190,6 +190,37 @@
             ]
           },
           "office2": {
+            "text": "Deputy Secretary-General of the Spanish Socialist Workers' Party",
+            "links": [
+              {
+                "text": "Deputy Secretary-General of the Spanish Socialist Workers' Party",
+                "type": "internal",
+                "page": "Spanish Socialist Workers' Party"
+              }
+            ]
+          },
+          "2blankname": {
+            "text": "Secretary-General"
+          },
+          "2namedata": {
+            "text": "Pedro Sánchez",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pedro Sánchez"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Adriana Lastra",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adriana Lastra"
+              }
+            ]
+          },
+          "office3": {
             "text": "Regional Minister of Finance and Public Administrations of Andalusia",
             "links": [
               {
@@ -199,7 +230,7 @@
               }
             ]
           },
-          "president2": {
+          "president3": {
             "text": "Susana Díaz",
             "links": [
               {
@@ -208,13 +239,13 @@
               }
             ]
           },
-          "termstart2": {
+          "termstart3": {
             "text": "9 September 2013"
           },
-          "termend2": {
+          "termend3": {
             "text": "6 June 2018"
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Carmen Martinez Aguayo",
             "links": [
               {
@@ -223,7 +254,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "Antonio Ramírez de Arellano López (Economy, Finance and Public Administrations)",
             "links": [
               {
@@ -232,7 +263,7 @@
               }
             ]
           },
-          "office3": {
+          "office4": {
             "text": "Regional Minister of Health and Social Welfare of Andalusia",
             "links": [
               {
@@ -242,7 +273,7 @@
               }
             ]
           },
-          "president3": {
+          "president4": {
             "text": "José Antonio Griñán",
             "links": [
               {
@@ -251,13 +282,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "7 May 2012"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "9 September 2013"
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Herself (Health and Consumer Affairs) Micaela Navarro (Equality and Social Welfare)",
             "links": [
               {
@@ -266,7 +297,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor4": {
             "text": "María José Sánchez Rubio (Health and Social Policies)",
             "links": [
               {
@@ -275,7 +306,7 @@
               }
             ]
           },
-          "office4": {
+          "office5": {
             "text": "Regional Minister of Health and Consumer Affairs of Andalusia",
             "links": [
               {
@@ -285,13 +316,13 @@
               }
             ]
           },
-          "termstart4": {
+          "termstart5": {
             "text": "25 April 2004"
           },
-          "termend4": {
+          "termend5": {
             "text": "7 May 2012"
           },
-          "predecessor4": {
+          "predecessor5": {
             "text": "Francisco Vallejo Serrano",
             "links": [
               {
@@ -300,10 +331,10 @@
               }
             ]
           },
-          "successor4": {
+          "successor5": {
             "text": "Herself (Health and Social Welfare)"
           },
-          "president4": {
+          "president5": {
             "text": "Manuel Chaves (2004–2009) José Antonio Griñan (2009–2012)",
             "links": [
               {
@@ -317,7 +348,7 @@
               }
             ]
           },
-          "office5": {
+          "office6": {
             "text": "Member of the Congress of Deputies",
             "links": [
               {
@@ -326,10 +357,10 @@
               }
             ]
           },
-          "term_start5": {
+          "term_start6": {
             "text": "21 May 2019"
           },
-          "constituency5": {
+          "constituency6": {
             "text": "Seville",
             "links": [
               {
@@ -339,7 +370,7 @@
               }
             ]
           },
-          "office6": {
+          "office7": {
             "text": "Member of the Parliament of Andalusia",
             "links": [
               {
@@ -348,13 +379,13 @@
               }
             ]
           },
-          "term_start6": {
+          "term_start7": {
             "text": "9 March 2008"
           },
-          "term_end6": {
+          "term_end7": {
             "text": "6 June 2018"
           },
-          "constituency6": {
+          "constituency7": {
             "text": "Seville",
             "links": [
               {

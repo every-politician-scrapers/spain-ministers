@@ -738,6 +738,73 @@
       ]
     },
     {
+      "title": "Taxation of Self-Employment",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Escrivá is responsible for preparations of social security tax changes for self-employed workers."
+            },
+            {
+              "text": "In July 2022, after 14 months of negotiations, the minister reached a deal with self-employed associations to modify the fees for this kind of workers."
+            },
+            {
+              "text": "The new scheme establishes for 2025 a minimum fee of 200 EUR / month for self-workers earning at least 670 EUR / month and a maximum fee of 590 EUR / month for those earning more than 6,000 EUR / month."
+            },
+            {
+              "text": "With these reform, those self-workers that not reach the official minimum wage, the fees will reduce, while those with more earnings will increase."
+            },
+            {
+              "text": "Due to this, it is expected that self-employed workers earning above 1,700 EUR / month will see their social security contributions increased up to twice in the next three years."
+            },
+            {
+              "text": "Some economists evaluate these changes as government attempts to temporary patch desequilibriums in the insustainable Spanish public pensions system, at the cost of self-employed workers."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Another relevant point is the probable breach of the commitments with the European Union, since with this reform it was hoped to reduce the Spanish social security deficit, but this reform does not guarantee it."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "July 19, 2022",
+          "title": "Escrivá preacuerda con los autónomos una cuota mínima de 230 euros en 2023: así quedan los tramos",
+          "work": "El Economista",
+          "url": "https://www.eleconomista.es/economia/noticias/11873617/07/22/Escriva-preacuerda-con-los-autonomos-una-cuota-minima-de-230-euros-en-2023-asi-quedan-las-tablas.html",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Rallo",
+          "first": "Juan Ramón",
+          "date": "January 21, 2022",
+          "title": "¿Cuál es el auténtico objetivo de la reforma Escrivá contra los autónomos?",
+          "work": "Cotizalia",
+          "url": "https://blogs.elconfidencial.com/economia/laissez-faire/2022-01-21/autentico-objetivo-reforma-escriva-autonomos_3361376/",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Jorrín",
+          "first": "Javier G.",
+          "date": "2022-07-21",
+          "title": "Escrivá bajará las cuotas al 70% de los autónomos y complica la promesa que hizo a Bruselas",
+          "url": "https://www.elconfidencial.com/economia/2022-07-21/escriva-bajara-cuotas-autonomos-complica-promesa-bruselas_3464377/",
+          "access-date": "2022-07-21",
+          "website": "elconfidencial.com",
+          "language": "es",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
       "title": "References",
       "depth": 0,
       "templates": [
