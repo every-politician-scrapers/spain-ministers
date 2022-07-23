@@ -320,11 +320,15 @@
             ]
           },
           "deputy1": {
-            "text": "Adriana Lastra",
+            "text": "Adriana Lastra María Jesús Montero",
             "links": [
               {
                 "type": "internal",
                 "page": "Adriana Lastra"
+              },
+              {
+                "type": "internal",
+                "page": "María Jesús Montero"
               }
             ]
           },

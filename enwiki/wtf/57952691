@@ -199,10 +199,10 @@
               }
             ]
           },
-          "2blankname": {
+          "2blankname2": {
             "text": "Secretary-General"
           },
-          "2namedata": {
+          "2namedata2": {
             "text": "Pedro Sánchez",
             "links": [
               {
@@ -211,7 +211,10 @@
               }
             ]
           },
-          "predecessor2": {
+          "term_start2": {
+            "text": "23 July 2022"
+          },
+          "succeeding2": {
             "text": "Adriana Lastra",
             "links": [
               {

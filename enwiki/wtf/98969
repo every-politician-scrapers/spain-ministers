@@ -40,7 +40,7 @@
         {
           "sentences": [
             {
-              "text": "Felipe VI or Philip VI (Felipe Juan Pablo Alfonso de Todos los Santos de Borbón y Grecia; born 30 January 1968) is the King of Spain.",
+              "text": "Felipe VI or Philip VI (Felipe Juan Pablo Alfonso de Todos los Santos de Borbón y Grecia; born 30 January 1968) is King of Spain.",
               "links": [
                 {
                   "type": "internal",
@@ -398,12 +398,12 @@
             "text": "Felipe Juan Pablo Alfonso de Todos los Santos de Borbón y Grecia"
           },
           "house": {
-            "text": "Bourbon",
+            "text": "Bourbon-Anjou",
             "links": [
               {
-                "text": "Bourbon",
+                "text": "Bourbon-Anjou",
                 "type": "internal",
-                "page": "House of Bourbon"
+                "page": "House of Bourbon-Anjou"
               }
             ]
           },
